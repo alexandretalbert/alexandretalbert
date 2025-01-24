@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<!--
-**alexandretalbert/alexandretalbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alexandre Takahashi Albert
 
 Seasoned and strategic technology leader and problem solver, with a proven track record of driving teams to deliver scalable solutions and digital products. 
 
@@ -16,4 +14,11 @@ With a Graduation and Master's degree in Computer Science (UFSC), and further en
 - Project Management | Agile | Digital transformation
 - Software architecture | System Design | Devops | Cyber Security 
 - Main stacks: Java, Python, .NET, React.JS, C++
-- Customer Focus | Communication | Business acumen | Mentoring and career development-->
+- Customer Focus | Communication | Business acumen | Mentoring and career development
+
+<!--
+**alexandretalbert/alexandretalbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+-->
