@@ -1,193 +1,194 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
-### _The Last Markdown Editor, Ever_
+# Payment Processing Team 2025
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+## SR Manager Responsibilities
+> List of responsibilities
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+## Manager Responsibilities
+> List of responsibilities
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+## Team Lead Responsibilities
+> List of responsibilities
 
-## Features
+## Product Specialists Responsibilities
+> List of responsibilities
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+## Product Seniors Responsibilities
+> List of responsibilities
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+## Alexandre
+### Achievements / Evidences
+- Integration 's Team organization
+- Developers Academy launch (HANDS ON EXEC)
+- Enigma
+- Performance Platfom
+- Google Cards
+- Meta NG
+- Meta EG
+- Netflix
+- Papeis e responsabilidade no time de Integraceos
+- Definição do processo entre Product Strategy e Product Engineering
+- Desenvolvimento dos lideres
+- Colaboração e preocesso!
+- Alinhamentos mais proximos de engenharia com Ops em Rollouts (NEQUI QR CODE, Meta,...)
+- Gestão de incidentes
+- Padrões em Integrações
+- Priorização de produto e Visibilidade de progresso
+  
+### Keep doing
+- she challenges partners and other areas
+- great business acumen 
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+### To improve
+- needs to be more strategic in relationships with stakeholders
+  
+### PDI
+- Action 1
+- Action 2
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
 
-## Tech
+## Geicy
+### Achievements / Evidences
+- puxou conversa com Edu e time para alinhar dificuldades (7/2)
+- Mentoria Stefany TAM Spotify
+- Aproximou-se do time de operações ajudando inclusive a melhorar processos e passando conhecimento
+- bom direcionamento do time para atenção a processos, visibilidade e colaboração
+  
+### Keep doing
+- she challenges partners and other areas
+- great business acumen 
 
-Dillinger uses a number of open source projects to work properly:
+### To improve
+- needs to be more strategic in relationships with stakeholders
+  
+### PDI
+- Action 1
+- Action 2
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+## Felps
+### Achievements / Evidences
+10/2 - Leading expasion weeklies with solid knowledge on statuses and business
+18/2 - Retormou as Tech Meetups
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+### Keep doing
 
-## Installation
+### To improve
+- Anticipate problems
+- Fomentar a busca por melhorias de "processo", baseado em casos recorrentes
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+### PDI
+- Action 1
+- Action 2
 
-Install the dependencies and devDependencies and start the server.
+## Kevin
+### Achievements / Evidences
+- 6/2 Ownership dos custos. Questionou cobranças que vieram da DB1
+- 10/2 Maturidade nos comites de calibragem
+- 10/3 nessa semana Kevin mergulhou nos detalhes de Meta, ajudando o time inclusive codando e organizando as pendencias com Sales Eng. (Hands On)
+- Google Cards
+- PIX Auto
+- Performance Platform (cedeu Devs SRs entendendo a importancia)
+- Meta Rollout Africa, MP MX, Nequi, Nu Pay
 
-```sh
-cd dillinger
-npm i
-node app
-```
+### Keep doing
+### To improve
+### PDI
+- Action 1
+- Action 2
 
-For production environments...
+## Gustavo
+### Achievements / Evidences
+### Keep doing
+### To improve
+### PDI
+- Action 1
+- Action 2
 
-```sh
-npm install --production
-NODE_ENV=production node app
-```
+## Anderson
+### Achievements / Evidences
+- Providers capabilities
+- RFI and processes improvements
+  
+### Keep doing
+### To improve
+- Lead ceremonies
+- Improve team's processes and dynamics with stakeholdes and other areas
+- English
+- Own the team, focusing at first on technical leadership, and gradually moving to people management
 
-## Plugins
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+### PDI
+- Action 1
+- Action 2
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+## Marlon
+### Achievements
+### Keep doing
+### To improve
+### PDI
+- Action 1
+- Action 2
 
-## Development
+## Precious
+### Achievements / Evidences
+- 10/3 Meta Rollout technical leadership and follow up
+- 11/3 Interswitch discussions
 
-Want to contribute? Great!
+  
+### Keep doing
+### To improve
+- deep dive with more details on solutions 
+- soft skills challenges (
+- verbalize more business related challenges 
+- more context on our business model?
 
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
+  
+### PDI
+- Action 1
+- Action 2
 
-Open your favorite Terminal and run these commands.
+## Shelton
+### Achievements
+### Keep doing
+### To improve
+### PDI
+- Action 1
+- Action 2
 
-First Tab:
+## Paula
+### Achievements / Evidences
+- Ownership of rollouts
+- Comms with critical stakeholders (Nequi challenges. Time, QR Code)
+  
+### Keep doing
+### To improve
+- English
+- Own Product Engineering, addressing things you do today that should be done by other teams
+  
+### PDI
+- Action 1
+- Action 2
 
-```sh
-node app
-```
+## Sam
+### Achievements / Evidences
+### Keep doing
+### To improve
+- Status on the projects (gaps)
+- Be more strategic 
+- Benchmark more competitors 
+- How to go beyond in India
+- Challenge more the partners. Not just accept delays
+- Structuring and documenting workflows, update Monday, use processes
 
-Second Tab:
+  
+### PDI
+- Action 1
+- Action 2
 
-```sh
-gulp watch
-```
-
-(optional) Third:
-
-```sh
-karma test
-```
-
-#### Building for source
-
-For production release:
-
-```sh
-gulp build --prod
-```
-
-Generating pre-built zip archives for distribution:
-
-```sh
-gulp build dist --prod
-```
-
-## Docker
-
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
-
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
-
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
-
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
-
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
-
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+## Daniel
+### Achievements
+### Keep doing
+### To improve
+### PDI
+- Action 1
+- Action 2
