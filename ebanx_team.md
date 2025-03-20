@@ -5,7 +5,15 @@
 
 
 ## Manager Responsibilities
-> List of responsibilities
+> - Inspirational leadership, motivating and empowering one or more teams to achieve exceptional results.
+> - Strategic vision, identifying growth and development opportunities for the organization.
+> - Ability to make tough decisions and take responsibility for the results List of responsibilities
+> - Expertise in team and project management, demonstrating leadership and problem-solving skills.
+> - Comprehensive knowledge of business and operational processes, with the ability to identify and implement improvements.
+> - Ability to manage resources, budgets, and timelines to ensure the delivery of agreed-upon goals.
+> - Ability to manage teams effectively, providing guidance, feedback, and support to ensure the performance and success of team members.
+> - Excellent project management skills, able to define objectives, plan strategies and manage activities to achieve exceptional results.
+> - Ability to mentor lower levels of leadership, assisting with analytical thinking for decisions and monitoring team performance and results.
 
 ## Team Lead Responsibilities
 > - Ability to lead teams effectively, delegating tasks and providing guidance.
@@ -14,6 +22,9 @@
 > - Experience of leading a team in a specific environment, demonstrating people management skills.
 > - Sound knowledge of the processes and procedures relevant to the area under your responsibility.
 > - Ability to plan, organize, and coordinate team activities to achieve established goals and objectives on time.
+> - Ability to coordinate the daily activities of a team, distributing tasks and assignments efficiently to achieve established objectives.
+> - Strong communication and leadership skills, able to motivate and inspire team members to reach their full potential.
+> - Ability to set priorities and manage resources effectively to ensure the success of the operations under their responsibility.
 
 ## Product Specialists Responsibilities
 > List of responsibilities
