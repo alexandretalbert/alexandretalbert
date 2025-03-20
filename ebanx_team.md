@@ -26,11 +26,23 @@
 > - Strong communication and leadership skills, able to motivate and inspire team members to reach their full potential.
 > - Ability to set priorities and manage resources effectively to ensure the success of the operations under their responsibility.
 
-## Product Specialists Responsibilities
-> List of responsibilities
+## Integrations Technical Product Manager (Specialist) Responsibilities
+> - Managing Integrations & Upkeep: Ensuring smooth operation and maintenance of integrations, especially for payment systems.
+> - Planning & Prioritization: Managing product backlog items, prioritizing based on strategy and business needs
+> - Problem solving: Product issues troubleshooting, fixing and root causes analysis
+> - Visibility / Updates: Regular reporting to stakeholders on integration, roadmap delivery progress and risks
+> - Technical Point of Contact: Liaising with integration providers and internal stakeholders, being the technical focal point
+> - In-Country Integrations: Managing regional payment integrations
+> - Testing & Go Lives: Overseeing UAT and live testing during product launches and rollouts
+> - Stakeholder Coordination: Collaborating with engineering, operations, compliance, and business teams
+> - Feasibility Assessment: Technical discoveries and evaluations on new solutions before implementation (providers readiness)
+> - Technical Documentation:  Creating and maintaining technical and funcational documentation
+> - Learning / Innovation: Staying ahead of industry trends, leveraging best practices on integration management and product engineering
+> - Leadership:	Leading and influencing cross-functional initiatives, balancing collaboration with fast decision-making
 
-## Product Seniors Responsibilities
-> List of responsibilities
+## Performance Technical Product Manager (Specialist) Responsibilities
+
+
 
 ## Alexandre
 ### Achievements / Evidences
