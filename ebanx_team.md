@@ -8,7 +8,12 @@
 > List of responsibilities
 
 ## Team Lead Responsibilities
-> List of responsibilities
+> - Ability to lead teams effectively, delegating tasks and providing guidance.
+> - Clear and effective communication, both with the team and with other areas of the organization.
+> - Ability to resolve conflicts and make assertive decisions to ensure the progress of projects and people.
+> - Experience of leading a team in a specific environment, demonstrating people management skills.
+> - Sound knowledge of the processes and procedures relevant to the area under your responsibility.
+> - Ability to plan, organize, and coordinate team activities to achieve established goals and objectives on time.
 
 ## Product Specialists Responsibilities
 > List of responsibilities
