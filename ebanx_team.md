@@ -27,18 +27,31 @@
 > - Ability to set priorities and manage resources effectively to ensure the success of the operations under their responsibility.
 
 ## Integrations Technical Product Manager (Specialist) Responsibilities
-> - Managing Integrations & Upkeep: Ensuring smooth operation and maintenance of integrations, especially for payment systems.
-> - Planning & Prioritization: Managing product backlog items, prioritizing based on strategy and business needs
-> - Problem solving: Product issues troubleshooting, fixing and root causes analysis
-> - Visibility / Updates: Regular reporting to stakeholders on integration, roadmap delivery progress and risks
-> - Technical Point of Contact: Liaising with integration providers and internal stakeholders, being the technical focal point
-> - In-Country Integrations: Managing regional payment integrations
-> - Testing & Go Lives: Overseeing UAT and live testing during product launches and rollouts
-> - Stakeholder Coordination: Collaborating with engineering, operations, compliance, and business teams
-> - Feasibility Assessment: Technical discoveries and evaluations on new solutions before implementation (providers readiness)
-> - Technical Documentation:  Creating and maintaining technical and funcational documentation
-> - Learning / Innovation: Staying ahead of industry trends, leveraging best practices on integration management and product engineering
-> - Leadership:	Leading and influencing cross-functional initiatives, balancing collaboration with fast decision-making
+> As a Technical Product Manager - Specialist, your mission will be to lead the technical evolution of our integration ecosystem, ensuring smooth, scalable, and efficient > > solutions for merchants and partners. You will work in a highly complex and collaborative environment, tackling technical and strategic challenges, aligning stakeholders, > and making data-driven decisions.
+
+> - Managing Integrations & Upkeep: Ensure smooth operations and maintenance in our integrations, driving quality, performance and Merchants experience
+> - Planning & Prioritization: Manage product backlog items, tasks breakdown, prioritizing based on strategy, business needs and teams capacity
+> - Problem solving: Deal with complex challenges, product issues troubleshooting, issues fixing and root causes analysis
+> - Visibility / Updates: Provide regular reporting to stakeholders on integrations status, roadmap delivery progress, blockers and risks
+> - Analytics: Generate insights through data analysis, supporting decision-making
+> - Technical Point of Contact: Liaise with integration providers and internal stakeholders, being the technical focal point
+> - In-Country Integrations: Manage regional payment integrations and leading technical discussions with partners and providers
+> - Testing & Go Lives: Oversee UAT and live testing during product launches and rollouts
+> - Stakeholder Coordination: Collaborate with Engineering, Operations, Compliance and Business teams
+> - Feasibility Assessment: Conduct technical discoveries, POCs and evaluations on new integrations/solutions before implementation (ex: providers readiness)
+> - Technical Documentation:  Create and maintain technical and functional documentation, translating complex concepts into clear messages for different audiences
+> - Learning / Innovation: Staying ahead of industry and local market trends, leveraging best practices on integration management and product engineering
+> - Leadership:	Leading strategic conversations and influencing cross-functional initiatives, balancing collaboration with fast decision-making
+
+### Collaborate with (Consulted, Informed) but not part of the Core Responsilities
+> - Market researches, princing, commercial discussions
+> - Strategic and market discoveries
+> - Define strategy for the Country
+> - Complete statement of work and agreements writing
+> - Own Merchants relationships
+> - Local legal and regulatory 
+
+
 
 ## Performance Technical Product Manager (Specialist) Responsibilities
 
