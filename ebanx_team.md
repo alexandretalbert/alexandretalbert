@@ -27,19 +27,19 @@
 > - Ability to set priorities and manage resources effectively to ensure the success of the operations under their responsibility.
 
 ## Integrations Technical Product Manager (Specialist) Responsibilities
-> As a Technical Product Manager - Specialist, your mission will be to lead the technical evolution of our integration ecosystem, ensuring smooth, scalable, and efficient > > solutions for merchants and partners. You will work in a highly complex and collaborative environment, tackling technical and strategic challenges, aligning stakeholders, > and making data-driven decisions.
+> Technical Product Manager: lead the technical evolution of our integration ecosystem, ensuring smooth, scalable, and efficient solutions for iour Merchants. Deal with complex and collaborative environment, tackling technical and strategic challenges, managing stakeholders relationships, provding visibility and making data-driven decisions.
 
-> - Managing Integrations & Upkeep: Ensure smooth operations and maintenance in our integrations, driving quality, performance and Merchants experience
+> - Managing Integrations & Upkeep: Ensure smooth operations and maintenance of our integrations, driving quality, performance and Merchants experience
+> - Feasibility Assessment: Conduct technical discoveries, POCs and evaluations on new integrations/solutions before implementation (ex: providers readiness)
 > - Planning & Prioritization: Manage product backlog items, tasks breakdown, prioritizing based on strategy, business needs and teams capacity
-> - Problem solving: Deal with complex challenges, product issues troubleshooting, issues fixing and root causes analysis
+> - Technical Point of Contact: Liaise with integration providers and internal stakeholders, being the technical focal point
+> - In-Country Integrations: Manage regional payment integrations and leading technical discussions with partners, providers and EBANX teams
+> - Testing & Go Lives: Oversee UAT and live testing during product launches and rollouts
+> - Technical Documentation:  Create and maintain technical and functional documentation, translating complex concepts into clear messages for different audiences
 > - Visibility / Updates: Provide regular reporting to stakeholders on integrations status, roadmap delivery progress, blockers and risks
 > - Analytics: Generate insights through data analysis, supporting decision-making
-> - Technical Point of Contact: Liaise with integration providers and internal stakeholders, being the technical focal point
-> - In-Country Integrations: Manage regional payment integrations and leading technical discussions with partners and providers
-> - Testing & Go Lives: Oversee UAT and live testing during product launches and rollouts
 > - Stakeholder Coordination: Collaborate with Engineering, Operations, Compliance and Business teams
-> - Feasibility Assessment: Conduct technical discoveries, POCs and evaluations on new integrations/solutions before implementation (ex: providers readiness)
-> - Technical Documentation:  Create and maintain technical and functional documentation, translating complex concepts into clear messages for different audiences
+> - Problem solving: Deal with complex challenges, product issues troubleshooting, issues fixing and root causes analysis
 > - Learning / Innovation: Staying ahead of industry and local market trends, leveraging best practices on integration management and product engineering
 > - Leadership:	Leading strategic conversations and influencing cross-functional initiatives, balancing collaboration with fast decision-making
 
