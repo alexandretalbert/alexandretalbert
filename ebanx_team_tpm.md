@@ -6,19 +6,30 @@
 # Technical Product Manager (Integrations))
 > Lead the technical evolution of our Payments Platform/Integrations platform ecosystem, ensuring smooth, scalable, and efficient solutions for our Merchants. Deal with a complex and collaborative environment, tackling both technical and strategic challenges, managing stakeholders relationships, provding visibility and making data-driven decisions.
 
-> - **MANAGING PERFORMANCE/INTEGRATIONS & UPKEEP:** Ensure smooth operations and maintenance of our Payments Platform/Integrations, driving quality, performance and delivering the optimal Merchants experience
-> - **FEASIBILITY ASSESSMENT:** Conduct technical discoveries, POCs and evaluations on new Features/Integrations before implementation
-> - **PLANNING & PRIORITIZATION:** Manage squads roadmap, backlog items and tasks, prioritizing based on strategy, business needs and teams capacity
+## Responsibilities:
+
+> - **PRODUCT DEVELOPMENT:** Ensure smooth operations and maintenance of our Payments Platform/Integrations, driving quality, performance and delivering the optimal Merchants experience
+> - **FEASIBILITY ASSESSMENTS:** Conduct technical discoveries, POCs and evaluations on new Features/Integrations before implementation
+> - **PRODUCT MANAGEMENT:** Manage squads roadmap, backlog items and tasks, prioritizing based on strategy, business needs and teams capacity
 > - **TECHNICAL POINT OF CONTACT:** Liaise with Merchants, Integrations providers and internal stakeholders, being a technical focal point 
 > - **IN-COUNTRY SOLUTIONS:** Manage regional payment features/integrations and lead technical discussions with merchants, partners and EBANX teams
-> - **TESTING & GO LIVES:** Oversee UAT and live testing during new features/integrations  launches and rollouts
+> - **QA AND TESTING:** Oversee UAT and live testing during new features/integrations launches and rollouts. API testing
 > - **TECHNICAL DOCUMENTATION:**  Create and maintain technical and functional documentation, translating complex concepts into clear messages for different audiences
-> - **VISIBILITY/UPDATES:** Provide regular reporting to stakeholders on performance/integrations status, roadmap delivery progress, blockers and risks
 > - **ANALYTICS:** Generate insights through data analysis, supporting decision-making 
-> - **STAKEHOLDERS COORDINATION:** Collaborate with Engineering, Operations, Compliance and Business teams to ensure alignment
+> - **TECHNICAL LEADERSHIP:** Be the bridge between business and squads, providing regular updates on performance/integrations status, roadmap delivery progress, blockers and risks 
 > - **PROBLEM SOLVING:** Deal with complex challenges, product issues troubleshooting, issues fixing and root causes analysis
-> - **LEARNING/INNOVATION:** Staying ahead of industry and local market trends, leveraging best practices on performance/integrationa management and product management
-> - **LEADERSHIP:**	Leading strategic conversations and influencing cross-functional initiatives, balancing collaboration with fast decision-making
+> - **CROSS FUNCTIONAL COLLABORATION:** Work with cross-functional teams (Engineering, Operations, Business), balancing collaboration with fast decision-making
+> - **LEARNING/INNOVATION:** Staying ahead of industry and technical trends, leveraging best practices on performance/integrations and product management
+
+## Skills:
+
+> - Technical acumen
+> - Product management
+> - Problem-solving skills
+> - API knowledge
+> - Adaptability
+> - Communication
+> - Skills to drive "build or partner" decisions
 
 ### Collaborate with (Consulted, Informed) but not part of the Core Responsilities
 > - Market researches, princing, commercial discussions
@@ -27,4 +38,5 @@
 > - Complete statement of work and agreements writing
 > - Own Merchants relationships
 > - Local legal and regulatory 
+
 
