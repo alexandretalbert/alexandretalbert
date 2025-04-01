@@ -1,62 +1,5 @@
 # Payment Processing Team 2025
 
-## SR Manager Responsibilities
-> List of responsibilities
-
-
-## Manager Responsibilities
-> - Inspirational leadership, motivating and empowering one or more teams to achieve exceptional results.
-> - Strategic vision, identifying growth and development opportunities for the organization.
-> - Ability to make tough decisions and take responsibility for the results List of responsibilities
-> - Expertise in team and project management, demonstrating leadership and problem-solving skills.
-> - Comprehensive knowledge of business and operational processes, with the ability to identify and implement improvements.
-> - Ability to manage resources, budgets, and timelines to ensure the delivery of agreed-upon goals.
-> - Ability to manage teams effectively, providing guidance, feedback, and support to ensure the performance and success of team members.
-> - Excellent project management skills, able to define objectives, plan strategies and manage activities to achieve exceptional results.
-> - Ability to mentor lower levels of leadership, assisting with analytical thinking for decisions and monitoring team performance and results.
-
-## Team Lead Responsibilities
-> - Ability to lead teams effectively, delegating tasks and providing guidance.
-> - Clear and effective communication, both with the team and with other areas of the organization.
-> - Ability to resolve conflicts and make assertive decisions to ensure the progress of projects and people.
-> - Experience of leading a team in a specific environment, demonstrating people management skills.
-> - Sound knowledge of the processes and procedures relevant to the area under your responsibility.
-> - Ability to plan, organize, and coordinate team activities to achieve established goals and objectives on time.
-> - Ability to coordinate the daily activities of a team, distributing tasks and assignments efficiently to achieve established objectives.
-> - Strong communication and leadership skills, able to motivate and inspire team members to reach their full potential.
-> - Ability to set priorities and manage resources effectively to ensure the success of the operations under their responsibility.
-
-## Integrations Technical Product Manager Responsibilities
-> **Technical Product Manager:** lead the technical evolution of our integration ecosystem, ensuring smooth, scalable, and efficient solutions for iour Merchants. Deal with complex and collaborative environment, tackling technical and strategic challenges, managing stakeholders relationships, provding visibility and making data-driven decisions.
-
-> - **MANAGING INTEGRATIONS & UPKEEP:** Ensure smooth operations and maintenance of our integrations, driving quality, performance and Merchants experience
-> - **FEASIBILITY ASSESSMENT:** Conduct technical discoveries, POCs and evaluations on new integrations/solutions before implementation (ex: providers readiness)
-> - **PLANNING & PRIORITIZATION:** Manage product backlog items, tasks breakdown, prioritizing based on strategy, business needs and teams capacity
-> - **TECHNICAL POINT OF CONTACT:** Liaise with integration providers and internal stakeholders, being the technical focal point
-> - **IN-COUNTRY INTEGRATIONS:** Manage regional payment integrations and leading technical discussions with partners, providers and EBANX teams
-> - **TESTING & GO LIVES:** Oversee UAT and live testing during product launches and rollouts
-> - **TECHNICAL DOCUMENTATION:**  Create and maintain technical and functional documentation, translating complex concepts into clear messages for different audiences
-> - **VISIBILITY / UPDATES:** Provide regular reporting to stakeholders on integrations status, roadmap delivery progress, blockers and risks
-> - **ANALYTICS:** Generate insights through data analysis, supporting decision-making
-> - **STAKEHOLDERS COORDINATION:** Collaborate with Engineering, Operations, Compliance and Business teams
-> - **PROBLEM SOLVING:** Deal with complex challenges, product issues troubleshooting, issues fixing and root causes analysis
-> - **LEARNING / INNOVATION:** Staying ahead of industry and local market trends, leveraging best practices on integration management and product engineering
-> - **LEADERSHIP:**	Leading strategic conversations and influencing cross-functional initiatives, balancing collaboration with fast decision-making
-
-### Collaborate with (Consulted, Informed) but not part of the Core Responsilities
-> - Market researches, princing, commercial discussions
-> - Strategic and market discoveries
-> - Define strategy for the Country
-> - Complete statement of work and agreements writing
-> - Own Merchants relationships
-> - Local legal and regulatory 
-
-
-
-## Performance Technical Product Manager (Specialist) Responsibilities
-
-
-
 ## Alexandre
 ### Achievements / Evidences
 - Integration 's Team organization
@@ -84,13 +27,12 @@
 - needs to be more strategic in relationships with stakeholders
   
 ### PDI
-- Action 1
-- Action 2
+To do
 
-
+<!------------------------------------------------------------------------------------------------>
 ## Geicy
 ### Achievements / Evidences
-- puxou conversa com Edu e time para alinhar dificuldades (7/2)
+- Puxou conversa com Edu e time para alinhar dificuldades (7/2)
 - Mentoria Stefany TAM Spotify
 - Aproximou-se do time de operações ajudando inclusive a melhorar processos e passando conhecimento
 - bom direcionamento do time para atenção a processos, visibilidade e colaboração
@@ -103,9 +45,9 @@
 - needs to be more strategic in relationships with stakeholders
   
 ### PDI
-- Action 1
-- Action 2
+To do
 
+<!------------------------------------------------------------------------------------------------>
 ## Felps
 ### Achievements / Evidences
 10/2 - Leading expasion weeklies with solid knowledge on statuses and business
@@ -118,9 +60,9 @@
 - Fomentar a busca por melhorias de "processo", baseado em casos recorrentes
 
 ### PDI
-- Action 1
-- Action 2
+To do
 
+<!------------------------------------------------------------------------------------------------>
 ## Kevin
 ### Achievements / Evidences
 - 6/2 Ownership dos custos. Questionou cobranças que vieram da DB1
@@ -132,19 +74,21 @@
 - Meta Rollout Africa, MP MX, Nequi, Nu Pay
 
 ### Keep doing
-### To improve
-### PDI
-- Action 1
-- Action 2
 
+### To improve
+
+### PDI
+To do
+
+<!------------------------------------------------------------------------------------------------>
 ## Gustavo
 ### Achievements / Evidences
 ### Keep doing
 ### To improve
 ### PDI
-- Action 1
-- Action 2
+To do
 
+<!------------------------------------------------------------------------------------------------>
 ## Anderson
 ### Achievements / Evidences
 - Providers capabilities
@@ -159,43 +103,45 @@
 
 
 ### PDI
-- Action 1
-- Action 2
+To do
 
+<!------------------------------------------------------------------------------------------------>
 ## Marlon
 ### Achievements
 ### Keep doing
 ### To improve
 ### PDI
-- Action 1
-- Action 2
+To do
 
+<!------------------------------------------------------------------------------------------------>
 ## Precious
 ### Achievements / Evidences
 - 10/3 Meta Rollout technical leadership and follow up
 - 11/3 Interswitch discussions
 
-  
 ### Keep doing
+
 ### To improve
 - deep dive with more details on solutions 
 - soft skills challenges (
 - verbalize more business related challenges 
 - more context on our business model?
-
   
 ### PDI
-- Action 1
-- Action 2
+Doing
 
+<!------------------------------------------------------------------------------------------------>
 ## Shelton
 ### Achievements
-### Keep doing
-### To improve
-### PDI
-- Action 1
-- Action 2
 
+### Keep doing
+
+### To improve
+
+### PDI
+To do
+
+<!------------------------------------------------------------------------------------------------>
 ## Paula
 ### Achievements / Evidences
 - Ownership of rollouts
@@ -208,9 +154,9 @@
 - Own Product Engineering, addressing things you do today that should be done by other teams
   
 ### PDI
-- Action 1
-- Action 2
+To do
 
+<!------------------------------------------------------------------------------------------------>
 ## Sam
 ### Achievements / Evidences
 ### Keep doing
@@ -222,15 +168,17 @@
 - Challenge more the partners. Not just accept delays
 - Structuring and documenting workflows, update Monday, use processes
 
-  
 ### PDI
-- Action 1
-- Action 2
+Doing
 
+<!------------------------------------------------------------------------------------------------>
 ## Daniel
+
 ### Achievements
+
 ### Keep doing
+
 ### To improve
+
 ### PDI
-- Action 1
-- Action 2
+To do
