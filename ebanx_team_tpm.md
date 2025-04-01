@@ -3,7 +3,7 @@
 
 ## PRODUCT ENGINEERING
 
-# Technical Product Manager (Integrations))
+# Technical Product Manager (TPM)
 > Lead the technical evolution of our Payments / Integrations platform ecosystem, ensuring smooth, scalable, and efficient solutions for our Merchants. Deal with a complex and collaborative environment, tackling both technical and strategic challenges, managing stakeholders relationships, providing visibility and making data-driven decisions.
 
 ## Responsibilities:
