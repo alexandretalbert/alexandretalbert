@@ -108,6 +108,12 @@ To do
 <!------------------------------------------------------------------------------------------------>
 ## Marlon
 ### Achievements
+- Feedback do time de Ops (Rafael Oening)
+> Fala, Alexandre! Tudo blz? Queria compartilhar um feedback super positivo do @Marlon Sousa
+> sobre o quão incrível é trabalhar em projetos que ele está envolvido. Um exemplo recente é a implementação do Bard, onde estamos apoiando no provisionamento da infraestrutura e no deploy da
+> aplicação. Esse projeto começou há bastante tempo, com a implementação de um processo de autenticação de serviço no EBMNG. Desde lá, até agora em que iniciamos de fato o deploy da aplicação, as
+> discussões técnicas com ele e a qualidade das suas implementações têm sido excelentes. Ele tem um conhecimento extremamente profundo das tecnologias e um compromisso com boas práticas que
+> raramente vemos na maioria dos desenvolvedores. De forma geral, quando sabemos que o Marlon está envolvido em um projeto, já é um forte indício de que a entrega será um sucesso.
 ### Keep doing
 ### To improve
 ### PDI
