@@ -76,6 +76,9 @@ To do
 ### Keep doing
 
 ### To improve
+- Delegate more so you can focus more on people and process management
+- Develop stakeholders relationship, being part of tactical and strategic coversations
+- Manage the system improving ways of working for the team
 
 ### PDI
 To do
