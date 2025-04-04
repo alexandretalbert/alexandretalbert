@@ -156,6 +156,7 @@ To do
 - Ownership of rollouts
 - Comms with critical stakeholders (Nequi challenges. Time, QR Code)
 - Accountability on improving our Planning and Prioritization process, ensuring clear view of backlogs for the LAC SQUAD
+- Netflix Rollout
   
 ### Keep doing
 ### To improve
