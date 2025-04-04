@@ -76,6 +76,7 @@ To do
 ### Keep doing
 
 ### To improve
+- Team likes wotking with you, but feels you are overwhelmed with technical responsibilities
 - Delegate more so you can focus more on people and process management
 - Develop stakeholders relationship, being part of tactical and strategic coversations
 - Manage the system improving ways of working for the team
