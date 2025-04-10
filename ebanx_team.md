@@ -43,6 +43,8 @@ To do
 
 ### To improve
 - needs to be more strategic in relationships with stakeholders
+- balance problem solving with strategic, managerial and structuring actions
+- i feel you are overwhelmend and that we can't find more time to talk about the team, future,....
   
 ### PDI
 To do
@@ -80,6 +82,8 @@ To do
 - Delegate more so you can focus more on people and process management
 - Develop stakeholders relationship, being part of tactical and strategic coversations
 - Manage the system improving ways of working for the team
+- Active listen when having conversations with the team, specifically with women at this moment
+- 
 
 ### PDI
 To do
