@@ -70,23 +70,31 @@ To do
 - 6/2 Ownership dos custos. Questionou cobranças que vieram da DB1
 - 10/2 Maturidade nos comites de calibragem
 - 10/3 nessa semana Kevin mergulhou nos detalhes de Meta, ajudando o time inclusive codando e organizando as pendencias com Sales Eng. (Hands On)
-- Google Cards
+- Google Cards MX
 - PIX Auto
 - Performance Platform (cedeu Devs SRs entendendo a importancia)
 - Meta Rollout Africa, MP MX, Nequi, Nu Pay
+- Feature Rollout
+- Olhar do todo (cedeu profissinais para projetos importantes lidando com impactos)!
 
 ### Keep doing
+- Transparency (15/4/2025)
+- Technical reference in Payment Processing (15/4/2025)
+- Keep questioning demands and ideas, seeking for clarification (15/4/2025)
+- Continue to foster new ideas and quality initiatives (15/4/2025)
 
 ### To improve
-- Team likes wotking with you, but feels you are overwhelmed with technical responsibilities
-- Delegate more so you can focus more on people and process management
-- Develop stakeholders relationship, being part of tactical and strategic coversations
-- Manage the system improving ways of working for the team
-- Active listen when having conversations with the team, specifically with women at this moment
-- 
-
+- People / leadership:
+  - Team likes wotking with you, but feels you are overwhelmed with technical responsibilities and tasks (15/4/2025)
+  - Build more autonomy, delegating more so you can be closer to the team on people and process management (15/4/2025)
+  - Active listen when having deep conversations team members
+  - Specifically at this moment, listen to pain point coming from women (15/4/2025)
+- Management
+  - Develop strategic stakeholders relationship, specially with teams outside Product and Engineering (15/4/2025)
+  - Manage the system improving ways of working for the team (structuring initiatives) (15/4/2025)
+  
 ### PDI
-To do
+- Doing
 
 <!------------------------------------------------------------------------------------------------>
 ## Gustavo
