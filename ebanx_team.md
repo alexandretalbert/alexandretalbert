@@ -156,6 +156,7 @@ To do
 - 11/3 Interswitch discussions
 
 ### Keep doing
+- The way you managed stakeholders, on kick offs, alingments (PAGA)
 
 ### To improve
 - deep dive with more details on solutions 
