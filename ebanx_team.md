@@ -36,15 +36,20 @@ To do
 - Mentoria Stefany TAM Spotify
 - Aproximou-se do time de operações ajudando inclusive a melhorar processos e passando conhecimento
 - bom direcionamento do time para atenção a processos, visibilidade e colaboração
+- Visão do todo. Foi muito madura na questão do Maia
   
 ### Keep doing
-- she challenges partners and other areas
-- great business acumen 
+- High collaboartion with Engineering, Ops and Business teams (15/4/2025)
+- Keep the team aligned with priorities, goals and issues (communication, transparency and proximity) (15/4/2025)
+- Keep questioning demands and asks (confrontation of ideas) (15/4/2025)
+- Results focused (15/4/2025)
 
 ### To improve
-- needs to be more strategic in relationships with stakeholders
-- balance problem solving with strategic, managerial and structuring actions
-- i feel you are overwhelmend and that we can't find more time to talk about the team, future,....
+- I feel you are overwhelmend and that we can't find more time to talk about the team, future,.... (15/4/2025)
+- Be more strategic in relationships with stakeholders, seeking beyond problem solving, improving ways of working and structuring initiatives. This means to balance collaboration with addressing roles and responsibilities properly (15/4/2025)
+- As you are a business/product/technical reference, create moments for knowledge sahring (this will facilitates delegation and team autonomy) (15/4/2025)
+
+
   
 ### PDI
 To do
@@ -52,17 +57,26 @@ To do
 <!------------------------------------------------------------------------------------------------>
 ## Felps
 ### Achievements / Evidences
-10/2 - Leading expasion weeklies with solid knowledge on statuses and business
+10/2 - Leading expansion weeklies with solid knowledge on statuses and business
 18/2 - Retormou as Tech Meetups
+20/2 - Integrations Squads
+
 
 ### Keep doing
+- Proximity to the team and active listening (15/4/2025)
+- Reinforce best practices and improve ways of working with Product teams (15/4/2025)
+- Lead engineering development initiatives (talks, meetups) (15/4/2025)
+- Technical reference for Integrations (15/4/2025)
 
 ### To improve
-- Anticipate problems
-- Fomentar a busca por melhorias de "processo", baseado em casos recorrentes
+- Anticipate problems, being closer to initiatives understanding (and questioning priorities) (15/4/2025)
+- Increase team's automomy by delegationm, so you can: (15/4/2025)
+  -  have more time for people management and structuring initiatives (15/4/2025)
+  -  focus on tasks only you can perform (15/4/2025)
+- Be the change agent for this recent team organization, seeking for process and communcation improvements (15/4/2025)
 
 ### PDI
-To do
+- Doing
 
 <!------------------------------------------------------------------------------------------------>
 ## Kevin
