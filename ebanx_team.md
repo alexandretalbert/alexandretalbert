@@ -101,8 +101,8 @@ To do
 - People / leadership:
   - Team likes wotking with you, but feels you are overwhelmed with technical responsibilities and tasks (15/4/2025)
   - Build more autonomy, delegating more so you can be closer to the team on people and process management (15/4/2025)
-  - Active listen when having deep conversations team members
-  - Specifically at this moment, listen to pain point coming from women (15/4/2025)
+  - Active listen when having deep conversations team members, specifically at this moment, listen to pain point coming from women (15/4/2025)
+  - Situation: came to me a feedback where you mentioned that a dev should me more like Bruno and less like KK
 - Management
   - Develop strategic stakeholders relationship, specially with teams outside Product and Engineering (15/4/2025)
   - Manage the system improving ways of working for the team (structuring initiatives) (15/4/2025)
