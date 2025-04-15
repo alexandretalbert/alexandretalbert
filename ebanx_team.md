@@ -190,6 +190,8 @@ To do
 ### To improve
 - English
 - Own Product Engineering, addressing things you do today that should be done by other teams
+- Be more concise
+- TEchnical Understanding
   
 ### PDI
 To do
