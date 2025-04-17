@@ -45,6 +45,7 @@ To do
 - Results focused (15/4/2025)
 
 ### To improve
+- Understand Merchants specifics needs \ edge cases
 - I feel you are overwhelmend and that we can't find more time to talk about the team, future,.... (15/4/2025)
 - Be more strategic in relationships with stakeholders, seeking beyond problem solving, improving ways of working and structuring initiatives. This means to balance collaboration with addressing roles and responsibilities properly (15/4/2025)
 - As you are a business/product/technical reference, create moments for knowledge sahring (this will facilitates delegation and team autonomy) (15/4/2025)
@@ -114,7 +115,15 @@ To do
 ## Gustavo
 ### Achievements / Evidences
 ### Keep doing
+- Learning EBANX (incidents and issues shadowing)
+- Improving ways of working and processes
+- Questioning demands and asks, seeking for clear priorities for the team
+
 ### To improve
+- Seek for interactions beyond domains of your team (Refunds), with peers and leaders from other teams and areas
+  - interacao
+  - issue shadow
+  - learn
 ### PDI
 To do
 
@@ -213,7 +222,15 @@ Doing
 
 <!------------------------------------------------------------------------------------------------>
 ## Daniel
-
+### Achievements / Evidences
+### Keep doing
+- Being a technical reference within engineering
+- Developing your self on hard / tech skills
+  
+### To improve
+- Every day, help us to adress TPMs role and responsilities. Continuing to collab with operations, but addressing tasks and issue that shouldn't be owned by US to the right owners, improving processes whenever needed
+- 
+  
 ### Achievements
 
 ### Keep doing
