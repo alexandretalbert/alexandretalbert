@@ -37,6 +37,7 @@ To do
 - Aproximou-se do time de operações ajudando inclusive a melhorar processos e passando conhecimento
 - bom direcionamento do time para atenção a processos, visibilidade e colaboração
 - Visão do todo. Foi muito madura na questão do Maia
+- Feedback do Peixoto na ocasiao da visita a parceiros em Colombia, Peru (como ela foi madura e como contribuiu para temas importantes para EBANX)
   
 ### Keep doing
 - High collaboartion with Engineering, Ops and Business teams (15/4/2025)
