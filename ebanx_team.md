@@ -40,17 +40,16 @@ To do
 - Feedback do Peixoto na ocasiao da visita a parceiros em Colombia, Peru (como ela foi madura e como contribuiu para temas importantes para EBANX)
   
 ### Keep doing
-- High collaboartion with Engineering, Ops and Business teams (15/4/2025)
+- Balancing collaboration with being firm (Engineering, Ops and Partners). Feedback Peixoto (15/4/2025)
 - Keep the team aligned with priorities, goals and issues (communication, transparency and proximity) (15/4/2025)
 - Keep questioning demands and asks (confrontation of ideas) (15/4/2025)
 - Results focused (15/4/2025)
 
 ### To improve
-- Understand Merchants specifics needs \ edge cases
-- I feel you are overwhelmend and that we can't find more time to talk about the team, future,.... (15/4/2025)
+- Be always open to new cases and ideas (due to your deep knowledge)
+- Make space for structuring initiaves. I feel you are overwhelmend and that we can't find more time to talk about the team, future,.... (15/4/2025)
 - Be more strategic in relationships with stakeholders, seeking beyond problem solving, improving ways of working and structuring initiatives. This means to balance collaboration with addressing roles and responsibilities properly (15/4/2025)
 - As you are a business/product/technical reference, create moments for knowledge sahring (this will facilitates delegation and team autonomy) (15/4/2025)
-
 
   
 ### PDI
@@ -198,11 +197,16 @@ To do
 - Alinhamentos BAC complexos 
   
 ### Keep doing
+- Your commitment and accountability are great
+- Stakeholders alignments on risks, blockers and plans
+- Good understanding about local contexts and partners details
+- Collaboration spirit and team relationships
+
 ### To improve
 - English
-- Own Product Engineering, addressing things you do today that should be done by other teams
-- Be more concise
-- TEchnical Understanding
+- Own Product Management (priorities and visibility), addressing things you do today that should be done by other teams
+- Be more concise dependind on the audience
+- Technical understanding platform (learning actions)
   
 ### PDI
 To do
