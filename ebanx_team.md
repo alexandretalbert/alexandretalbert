@@ -215,6 +215,7 @@ To do
 <!------------------------------------------------------------------------------------------------>
 ## Sam
 ### Achievements / Evidences
+- Leading Philipines and Paymongo integration
 ### Keep doing
 ### To improve
 - Status on the projects (gaps)
