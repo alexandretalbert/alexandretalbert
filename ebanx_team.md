@@ -50,6 +50,7 @@ To do
 - Make space for structuring initiaves. I feel you are overwhelmend and that we can't find more time to talk about the team, future,.... (15/4/2025)
 - Be more strategic in relationships with stakeholders, seeking beyond problem solving, improving ways of working and structuring initiatives. This means to balance collaboration with addressing roles and responsibilities properly (15/4/2025)
 - As you are a business/product/technical reference, create moments for knowledge sahring (this will facilitates delegation and team autonomy) (15/4/2025)
+- Keep increasing your team's autonomy
 
   
 ### PDI
