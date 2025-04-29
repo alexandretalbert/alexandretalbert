@@ -166,13 +166,15 @@ To do
 - 11/3 Interswitch discussions
 
 ### Keep doing
-- The way you managed stakeholders, on kick offs, alingments (PAGA)
+- Stakeholders management, on kick offs, alingments (PAGA)
+- Accountability and proactivity
+- Being a reference for the team
 
 ### To improve
-- deep dive with more details on solutions 
-- soft skills challenges (
-- verbalize more business related challenges 
-- more context on our business model?
+- Balance ownership with focus on your TPM role (techincal product management)
+- Continue to develop your leadership skills
+- Increase technical understanding of the EBANX platform, seeking for interaction with people from other teams
+- Verbalize more business related challenges 
   
 ### PDI
 Doing
