@@ -121,6 +121,7 @@ To do
 - Questioning demands and asks, seeking for clear priorities for the team
 
 ### To improve
+- Deep dive on issues and tasks (own)
 - Seek for interactions beyond domains of your team (Refunds), with peers and leaders from other teams and areas
   - interacao
   - issue shadow
