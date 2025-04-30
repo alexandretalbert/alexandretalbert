@@ -174,7 +174,7 @@ To do
 - Balance ownership with focus on your TPM role (techincal product management)
 - Continue to develop your leadership skills
 - Increase technical understanding of the EBANX platform, seeking for interaction with people from other teams
-- Verbalize more business related challenges 
+- Increase your business context
   
 ### PDI
 Doing
