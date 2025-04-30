@@ -57,6 +57,7 @@
 ## SEBA
 
 ## GEICY
+- Rebeca e Fernando
 - Bi weekly (junto?)
 - team Org
 - IDP
