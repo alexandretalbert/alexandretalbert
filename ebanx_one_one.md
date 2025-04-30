@@ -25,9 +25,9 @@
 - Monday Meeting
 - Refund NG RMB
 - BREAK IN LAC
--- TEMU BAC INSTALLMENTS
--- capacity card salvador
--- capacity go live Temu
+  - TEMU BAC INSTALLMENTS
+  - capacity card salvador
+  - capacity go live Temu
 
 ## DANIEL
 - Q2 Board
@@ -39,10 +39,10 @@
 - Q2 Board e update de datas
 - Weekly minutes
 - Structure
--- semana sem vc, PK e Sam
--- muitos contextos para 1 pessoa
--- fuso horário
--- foco
+  - semana sem vc, PK e Sam
+  - muitos contextos para 1 pessoa
+  - fuso horário
+  - foco
 - Denis, Sidharta e Vagas
 - Philipinas e Capitec
 - BAC Costa Rica (Temu)
