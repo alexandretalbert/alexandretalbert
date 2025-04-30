@@ -1,12 +1,24 @@
 
 # 1:1
 
-## ALEX
+## ROSSETTO
+- Delegar mais
+-- BAC Installments
+-- Netflix Refunds
+-- Refunds Africa
+-- SHEIN Nequi telefone
+-- India Fasspring
+-- Philipines Int
+-- SA Capitec
+- Sam India (plan)
+- PK
+- Milo (eta, sai fazendo, Viagem Geicy)
+
+## KEVIN / ALEX
 - Refunds Netflix / Amazon
 - PIX lado Pay
 - Solucao SDK
-- Google, Netflix,
-Meta
+- Google, Netflix, Meta
 
 ## MILO
 - Meta Integration Reverse
@@ -62,23 +74,8 @@ Meta
 - Q2 Board
 - IDP
 
-## KEVIN
-
 ## PAULA
 - ETA
 - BAC
-
-## ROSSETTO
-- Delegar mais
--- BAC Installments
--- Netflix Refunds
--- Refunds Africa
--- SHEIN Nequi telefone
--- India Fasspring
--- Philipines Int
--- SA Capitec
-- Sam India (plan)
-- PK
-- Milo (eta, sai fazendo, Viagem Geicy)
 
 ## KALECSER
