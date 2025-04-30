@@ -3,13 +3,13 @@
 
 ## ROSSETTO
 - Delegar mais
--- BAC Installments
--- Netflix Refunds
--- Refunds Africa
--- SHEIN Nequi telefone
--- India Fasspring
--- Philipines Int
--- SA Capitec
+  - BAC Installments
+  - Netflix Refunds
+  - Refunds Africa Temu
+  - SHEIN Nequi telefone
+  - India Fasspring
+  - Philipines Int
+  - SA Capitec
 - Sam India (plan)
 - PK
 - Milo (eta, sai fazendo, Viagem Geicy)
