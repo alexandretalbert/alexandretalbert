@@ -49,10 +49,13 @@
 - Philipinas e Capitec
 - BAC Costa Rica (Temu)
 - Break ins em LAC
+- Yesbank Onboardking APi
 
 ## SAM
 - India DOC
 - Fastspring
+  - They didn't know we didn't have a legal entity in India
+  - Rodrigo (update)
 - Maya vs ETA
 
 ## SEBA
