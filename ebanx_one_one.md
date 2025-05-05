@@ -38,17 +38,22 @@
 ## SHELTON
 
 ## ANDERSON
-- Q2 ETAs and status
-- Weekly minutes
 - Structure
   - Semana sem vc, PK e Sam
   - Muitos contextos para 1 pessoa
   - Fuso horário
   - Foco
 - Denis, Sidharta e Vagas
-- Philipinas e Capitec
-- BAC Costa Rica (Temu)
+- Q2 ETAs and status
 - Break ins em LAC
+- Highlights
+  - Philippines / PayMongo
+  - Capitec
+  - BAC 
+  - ID Validator
+  - Refunds NG e Netflix
+  - India Devdocs
+- Weekly minutes
 - Yesbank Onboardking APi
 
 ## SAM
