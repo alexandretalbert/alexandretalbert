@@ -38,21 +38,21 @@ To do
 - bom direcionamento do time para atenção a processos, visibilidade e colaboração
 - Visão do todo. Foi muito madura na questão do Maia
 - Feedback do Peixoto na ocasiao da visita a parceiros em Colombia, Peru (como ela foi madura e como contribuiu para temas importantes para EBANX)
+- Viagem acompanhando Operações pelos paises para visita a parceiros (Acquirers, Issuers,...)
+- Criação da squad com foco em Liveops (mais proximidade e agilidade na operação)
   
 ### Keep doing
+- Being results oriented / focused (15/4/2025)
 - Balancing collaboration with being firm (Engineering, Ops and Partners). Feedback Peixoto (15/4/2025)
 - Keep the team aligned with priorities, goals and issues (communication, transparency and proximity) (15/4/2025)
 - Keep questioning demands and asks (confrontation of ideas) (15/4/2025)
-- Results focused (15/4/2025)
 
 ### To improve
-
-- Make space for structuring initiaves. I feel you are overwhelmend and that we can't find more time to talk about the team, future,.... (15/4/2025)
+- Create space for structuring initiaves. I feel you are overwhelmend and that we can't find more time to talk about the team, future,.. (15/4/2025)
 - In relationships with stakeholders and peers, seek beyond problem solving. Always aim to build strategic relationships, improving ways of working and building bridges. I believe this will help to balance collaboration with addressing roles and responsibilities properly (15/4/2025)
-- As you are a business/product/technical reference, create moments for knowledge sahring (this will facilitates delegation and team autonomy) (15/4/2025)
-- Keep increasing your team's autonomy
+- As you are a business/product/technical reference, 
+- Keep increasing your team's autonomy. Create moments for knowledge sharing (this will facilitates delegation and team autonomy) (15/4/2025)
 - Be always open to new cases and ideas (due to your deep knowledge)
-
   
 ### PDI
 To do
