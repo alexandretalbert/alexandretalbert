@@ -38,13 +38,13 @@
 ## SHELTON
 
 ## ANDERSON
-- Q2 Board e update de datas
+- Q2 ETAs and status
 - Weekly minutes
 - Structure
-  - semana sem vc, PK e Sam
-  - muitos contextos para 1 pessoa
-  - fuso horário
-  - foco
+  - Semana sem vc, PK e Sam
+  - Muitos contextos para 1 pessoa
+  - Fuso horário
+  - Foco
 - Denis, Sidharta e Vagas
 - Philipinas e Capitec
 - BAC Costa Rica (Temu)
