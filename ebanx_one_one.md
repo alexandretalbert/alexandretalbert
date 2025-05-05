@@ -67,6 +67,7 @@
 
 ## GEICY
 - Feedback
+- Refunds Squads
 - Q2 Items
 - Team Org (squads, liveops prioritization)
 - IDP
