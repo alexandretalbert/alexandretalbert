@@ -71,6 +71,7 @@
 - Q2 Items
 - Team Org (squads, liveops prioritization)
 - IDP
+- Change in structure
 - Dev Academy
 - TPM Role
 
