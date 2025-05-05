@@ -44,7 +44,8 @@ To do
 ### Keep doing
 - Being results oriented / focused (15/4/2025)
 - Balancing collaboration with being firm (Engineering, Ops and Partners). Feedback Peixoto (15/4/2025)
-- Keep the team aligned with priorities, goals and issues (communication, transparency and proximity) (15/4/2025)
+- Keep the team aligned with priorities, goals and results (communication, transparency and proximity) (15/4/2025)
+- Visibility: report
 - Keep questioning demands and asks (confrontation of ideas) (15/4/2025)
 
 ### To improve
