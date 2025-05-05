@@ -46,11 +46,12 @@ To do
 - Results focused (15/4/2025)
 
 ### To improve
-- Be always open to new cases and ideas (due to your deep knowledge)
+
 - Make space for structuring initiaves. I feel you are overwhelmend and that we can't find more time to talk about the team, future,.... (15/4/2025)
-- Be more strategic in relationships with stakeholders, seeking beyond problem solving, improving ways of working and structuring initiatives. This means to balance collaboration with addressing roles and responsibilities properly (15/4/2025)
+- In relationships with stakeholders and peers, seek beyond problem solving. Always aim to build strategic relationships, improving ways of working and building bridges. I believe this will help to balance collaboration with addressing roles and responsibilities properly (15/4/2025)
 - As you are a business/product/technical reference, create moments for knowledge sahring (this will facilitates delegation and team autonomy) (15/4/2025)
 - Keep increasing your team's autonomy
+- Be always open to new cases and ideas (due to your deep knowledge)
 
   
 ### PDI
