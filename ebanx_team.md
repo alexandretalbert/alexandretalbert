@@ -184,6 +184,7 @@ Doing
 <!------------------------------------------------------------------------------------------------>
 ## Shelton
 ### Achievements
+- Leading CAPITEC initiative
 
 ### Keep doing
 
