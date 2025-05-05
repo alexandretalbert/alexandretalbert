@@ -61,11 +61,10 @@
 ## SEBA
 
 ## GEICY
-- Rebeca e Fernando
-- Bi weekly (junto?)
-- team Org
+- Feedback
+- Q2 Items
+- Team Org (squads, liveops prioritization)
 - IDP
-- Q2
 - Dev Academy
 - TPM Role
 
