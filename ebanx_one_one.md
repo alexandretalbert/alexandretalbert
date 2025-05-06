@@ -3,9 +3,14 @@
 
 ## ROSSETTO
 - Gustavo
+- Seniores fazendo falta
+  - Spotify
+  - SHEIN
+  - Yape
+  - Netflix refunds
 - Viagem Felps
 - Performance vs Strategy
-- Seniores fazendo falta
+- 
 
 ## KEVIN / ALEX
 - Refunds Netflix / Amazon
