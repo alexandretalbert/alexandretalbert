@@ -2,19 +2,10 @@
 # 1:1
 
 ## ROSSETTO
-- Strategy em Performance
-- Netflix Refunds
-- Delegar mais
-  - BAC Installments
-  - Refunds Africa Temu
-  - SHEIN Nequi telefone
-  - India Fasspring
-  - Philipines Int
-  - SA Capitec
-- Intent?
-- Sam India (plan)
-- PK
-- Milo (eta, sai fazendo, Viagem Geicy)
+- Gustavo
+- Viagem Felps
+- Performance vs Strategy
+- Seniores fazendo falta
 
 ## KEVIN / ALEX
 - Refunds Netflix / Amazon
