@@ -123,11 +123,14 @@ To do
 - Questioning demands and asks, seeking for clear priorities for the team
 
 ### To improve
-- Deep dive on issues and tasks (own)
-- Seek for interactions beyond domains of your team (Refunds), with peers and leaders from other teams and areas
-  - interacao
-  - issue shadow
-  - learn
+- Learn and get more context on Refunds (own the themes). Ask for help
+- Collaborate with Product Engineering to avoid miscunderstanding
+- Deep dive on issues and tasks (15/4/2025)
+- Seek for interactions beyond domains of your team (Refunds), with peers and leaders from other teams and areas (15/4/2025)
+  - interacao (15/4/2025)
+  - issue shadow (15/4/2025)
+  - learn (15/4/2025)
+  
 ### PDI
 To do
 
