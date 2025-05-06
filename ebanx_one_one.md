@@ -2,6 +2,7 @@
 # 1:1
 
 ## ROSSETTO
+- Strategy em Performance
 - Netflix Refunds
 - Delegar mais
   - BAC Installments
