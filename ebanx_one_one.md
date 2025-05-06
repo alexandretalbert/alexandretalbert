@@ -79,6 +79,11 @@
 ## SERGIO
 
 ## GUSTAVO
+- Feedback
+- Round Up
+- Netflix
+- Vaga Daniel
+  
 
 ## FELPS
 - Tech Lead por squad
