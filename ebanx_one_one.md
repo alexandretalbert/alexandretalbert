@@ -67,6 +67,7 @@
 ## SEBA
 
 ## GEICY
+- Como dar mais visibilidade dos prazos e coisas acontecendo
 - Feedback
 - Refunds Squads
 - Q2 Items
