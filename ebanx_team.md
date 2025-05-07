@@ -40,6 +40,7 @@ To do
 - Feedback do Peixoto na ocasiao da visita a parceiros em Colombia, Peru (como ela foi madura e como contribuiu para temas importantes para EBANX)
 - Viagem acompanhando Operações pelos paises para visita a parceiros (Acquirers, Issuers,...)
 - Criação da squad com foco em Liveops (mais proximidade e agilidade na operação)
+- Mesas de trabalho com Operacoes
   
 ### Keep doing
 - Being results oriented / focused (15/4/2025)
@@ -189,14 +190,15 @@ Doing
 ## Shelton
 ### Achievements
 - Leading CAPITEC initiative
-- 
+- Meta EG / NG
 
 ### Keep doing
 - Seeking for autonomy
 - Leading the Technical part of our integrations, but manageing stakeholders (visibility and etas)
 
 ### To improve
-- technical deep diving in out platform (understanding how it works)
+- Technical deep dive in out platform (understanding how it works)
+  
 
 ### PDI
 To do
