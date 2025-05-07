@@ -5,9 +5,11 @@
 - Gustavo
 - Seniores fazendo falta
   - Spotify
-  - SHEIN
   - Yape
-  - Netflix refunds
+  - SHEIN
+  - Netflix refund intent + processor
+  - 
+- Produtuvidade
 - Viagem Felps
 - Performance vs Strategy
 - 
