@@ -8,17 +8,20 @@
   - Yape
   - SHEIN
   - Netflix refund intent + processor
-  - 
+
 - Produtuvidade
 - Viagem Felps
 - Performance vs Strategy
-- 
+  
+## GUSTAVO
+- Se sentir dono do tema refunds
+- Como é algo ainda com arestas, não esperar que as demanas virão de forma madura
+- Colaborar com pares
+- Pedir Ajuda
 
 ## KEVIN / ALEX
-- Refunds Netflix / Amazon
-- PIX lado Pay
-- Solucao SDK
-- Google, Netflix, Meta
+- Produtividade em algumas tarefas
+- Capacity
 
 ## MILO
 - Meta Integration Reverse
