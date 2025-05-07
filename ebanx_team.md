@@ -189,10 +189,14 @@ Doing
 ## Shelton
 ### Achievements
 - Leading CAPITEC initiative
+- 
 
 ### Keep doing
+- Seeking for autonomy
+- Leading the Technical part of our integrations, but manageing stakeholders (visibility and etas)
 
 ### To improve
+- technical deep diving in out platform (understanding how it works)
 
 ### PDI
 To do
