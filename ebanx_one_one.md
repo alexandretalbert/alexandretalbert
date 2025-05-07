@@ -2,13 +2,12 @@
 # 1:1
 
 ## ROSSETTO
-- Gustavo
 - Seniores fazendo falta
   - Spotify
   - Yape
   - SHEIN
   - Netflix refund intent + processor
-
+- Gustavo
 - Produtuvidade
 - Viagem Felps
 - Performance vs Strategy
