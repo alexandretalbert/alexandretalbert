@@ -67,15 +67,12 @@
 ## SEBA
 
 ## GEICY
-- Como dar mais visibilidade dos prazos e coisas acontecendo
+
+- Follow up nos canais
+- Liveops vs Evolução
 - Feedback
-- Refunds Squads
 - Q2 Items
 - Team Org (squads, liveops prioritization)
-- IDP
-- Change in structure
-- Dev Academy
-- TPM Role
 
 ## SERGIO
 
