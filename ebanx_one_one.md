@@ -63,7 +63,7 @@
 
 ## GEICY
 - Follow up nos canais semana que vem (Yape, Spotify, Temu)
-- Q2 Items updates and Progress
+- Q2 Items progress (Status, engineering board)
 - Liveops vs Evolução, Team Org (squads, liveops prioritization)
 - Reunião bi weekly entre Peixoto, Rosseto, Seba, eu e Milo (Mandate Referee, Account Updater,International acquirer...etc)
 - Refunds e Brand Mandate Referee
