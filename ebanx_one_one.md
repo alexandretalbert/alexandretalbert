@@ -24,6 +24,7 @@
 
 ## MILO
 - Maia connected in OPS (some things are adjustments on existing flows)
+  - Issue com TikTok por causa do Drop CVV (eles vão flagar se e uma transacao segura....)
 - Monday Meeting
 - Philipines and Capitec
 - Emergencies vs New things from Ops
