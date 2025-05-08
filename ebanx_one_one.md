@@ -68,11 +68,9 @@
 
 ## GEICY
 
-- Follow up nos canais
-- Liveops vs Evolução
-- Feedback
-- Q2 Items
-- Team Org (squads, liveops prioritization)
+- Follow up nos canais (Yape, Spotify, Temu)
+- Q2 Items updates
+- Liveops vs Evolução, Team Org (squads, liveops prioritization)
 
 ## SERGIO
 
