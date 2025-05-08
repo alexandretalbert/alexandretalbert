@@ -55,11 +55,9 @@
 - Yesbank Onboardking APi
 
 ## SAM
+- Paymongo (congrats on how you are leading tech and addressing other things without absorve)
 - India DOC
-- Fastspring
-  - They didn't know we didn't have a legal entity in India
-  - Rodrigo (update)
-- Maya vs ETA
+- Rec Plan
 
 ## SEBA
 
