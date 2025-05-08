@@ -23,14 +23,10 @@
 - Capacity
 
 ## MILO
-- Meta Integration Reverse
 - Monday Meeting
-- Philipines
-- Refund Intent
-- BREAK IN LAC
-  - TEMU BAC INSTALLMENTS
-  - capacity card salvador
-  - capacity go live Temu
+- Philipines and Capitec
+- Emergencies vs New things from Ops
+- Maia in cards
 
 ## DANIEL
 - Q2 Board
