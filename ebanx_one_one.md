@@ -65,7 +65,7 @@
 - Follow up nos canais semana que vem (Yape, Spotify, Temu)
 - Q2 Items updates and Progress
 - Liveops vs Evolução, Team Org (squads, liveops prioritization)
-- Reunião bi weekly entre Peixoto, Rosseto, Seba, eu e Milo (Mandate Referee, Account Updater,...etc)
+- Reunião bi weekly entre Peixoto, Rosseto, Seba, eu e Milo (Mandate Referee, Account Updater,International acquirer...etc)
 - Refunds e Brand Mandate Referee
 
 ## SERGIO
