@@ -27,6 +27,7 @@
 - Philipines and Capitec
 - Emergencies vs New things from Ops
 - Maia in cards
+- Sending one guy from engineering
 
 ## DANIEL
 - Q2 Board
@@ -63,9 +64,8 @@
 ## SEBA
 
 ## GEICY
-
-- Follow up nos canais (Yape, Spotify, Temu)
-- Q2 Items updates
+- Follow up nos canais semana que vem (Yape, Spotify, Temu)
+- Q2 Items updates and Progress
 - Liveops vs Evolução, Team Org (squads, liveops prioritization)
 
 ## SERGIO
