@@ -65,6 +65,7 @@
 - Follow up nos canais semana que vem (Yape, Spotify, Temu)
 - Q2 Items updates and Progress
 - Liveops vs Evolução, Team Org (squads, liveops prioritization)
+- Refunds e Brand Mandate Referee
 
 ## SERGIO
 
