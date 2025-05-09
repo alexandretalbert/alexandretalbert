@@ -50,8 +50,8 @@ After many years as a developer, architect, manager, and director, I see my role
 ## How can I help you?
 
 - Making tough calls when things feel stuck;
-- Offering a second opinion or external perspective;
-- Providing structured feedback (career, performance, situational);
+- Bringing an alternative view when needed — especially when you're in doubt or under pressure.
+- Giving feedback that helps you grow — on situations, performance, or your career.
 - Supporting technical and organizational decisions;
 - Helping in critical situations (incidents, people issues, delivery risks);
 - Mentoring leaders on architecture, stakeholder management, and team development;
@@ -75,8 +75,8 @@ After many years as a developer, architect, manager, and director, I see my role
 - I am a people's person. Expect collaboration from me, as I expect from you;
 - I don't micromanage, but I expect accountabilityt and initiative
 - I value action and results over bureaucrac;
-- I’ll always give you honest feedback — respectfully, but directly;
-- I tend to think aloud and reflect often. Sometimes I over-communicate, and I’m okay with that;
+- I give honest feedback — direct, but always respectful.
+- I tend to talk through my ideas as I think. Sometimes I say or write more than needed — but I’d rather risk over-communicating than leaving things unclear;
 - I believe leadership is about creating safe, high-trust environments — and I try to live that every day;
 - I’m still learning and failing. And will continue with the process.
 
