@@ -5,7 +5,7 @@
 - Integration 's Team organization
 - Developers Academy launch (HANDS ON EXEC)
 - Enigma
-- Performance Platfom
+- Performance Platfom 
 - Google Cards
 - Meta NG
 - Meta EG
