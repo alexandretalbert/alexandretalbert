@@ -195,6 +195,7 @@ Doing
 ### Achievements
 - Leading CAPITEC initiative
 - Meta EG / NG
+- The way Shelton run sessions with partners being well organized and obejtive (agenda, questions, next steps,...)
 
 ### Keep doing
 - Seeking for autonomy
