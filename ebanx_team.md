@@ -142,11 +142,15 @@ To do
 - RFI and processes improvements
   
 ### Keep doing
+- Being a technical reference for the team
+- Improving your expertise and business acumen regarding our several region contexts for integrations
+- Pushing the team to own the backlogs and the delivery process 
+
 ### To improve
-- Lead ceremonies
-- Improve team's processes and dynamics with stakeholdes and other areas
-- English
-- Own the team, focusing at first on technical leadership, and gradually moving to people management
+- Own the ceremonies and meetings with the team
+- Dedicate time to improve processes and struturing initiatives
+- Keep developing your English
+- Gradually move to people management (feedbacks, development, performance)
 
 
 ### PDI
