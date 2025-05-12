@@ -2,15 +2,10 @@
 # 1:1
 
 ## ROSSETTO
-- Seniores fazendo falta
-  - Spotify
-  - Yape
-  - SHEIN
-  - Netflix refund intent + processor
-- Gustavo
+- Movimentação Anderson
+- Org
 - Produtuvidade
-- Viagem Felps
-- Performance vs Strategy
+
   
 ## GUSTAVO
 - Se sentir dono do tema refunds
