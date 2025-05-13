@@ -4,6 +4,7 @@
 ## ROSSETTO
 - Movimentação Anderson
 - Org
+- Tiago
 - Incident Criticality
 - Produtuvidade
 
