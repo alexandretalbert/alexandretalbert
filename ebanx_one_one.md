@@ -19,13 +19,10 @@
 - Capacity
 
 ## MILO
-- Maia connected in OPS (some things are adjustments on existing flows)
-  - Issue com TikTok por causa do Drop CVV (eles vão flagar se e uma transacao segura....)
-- Monday Meeting
-- Philipines and Capitec
-- Emergencies vs New things from Ops
-- Maia in cards
-- Sending one guy from engineering
+- Monday sem padrão (coisas done em dev mas...)
+- Boleto
+- Structture
+
 
 ## DANIEL
 - Q2 Board
