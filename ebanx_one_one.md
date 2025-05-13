@@ -23,6 +23,7 @@
 - Monday sem padrão (coisas done em dev mas...)
 - Boleto
 - Structture
+- Boleto
 
 
 ## DANIEL
