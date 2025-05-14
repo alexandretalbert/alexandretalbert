@@ -3,8 +3,8 @@
 
 ## ROSSETTO
 - Movimentação Anderson
-- Org
-- Strategy
+- Org vs Strategy
+- Vagas
 - Tiago
 - Incident Criticality
 - Produtuvidade
