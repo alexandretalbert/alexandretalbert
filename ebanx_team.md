@@ -236,6 +236,10 @@ To do
 ## Sam
 ### Achievements / Evidences
 - Leading Philipines and Paymongo integration
+- Canva deal (bridge)
+- Adobe
+
+  
 ### Keep doing
 ### To improve
 - Status on the projects (gaps)
