@@ -76,8 +76,9 @@
   
 
 ## FELPS
-- Tech Lead por squad
-- Refunds
+- Capacity
+- Customer Facing team
+- Houston ownership
 
 ## PRECIOUS
 - Q2 Board
