@@ -4,6 +4,7 @@
 ## ROSSETTO
 - Movimentação Anderson
 - Org
+- Strategy
 - Tiago
 - Incident Criticality
 - Produtuvidade
@@ -20,10 +21,10 @@
 - Capacity
 
 ## MILO
+- Boleto
 - Monday sem padrão (coisas done em dev mas...)
-- Boleto
+- Deck (capacity and alignment)
 - Structture
-- Boleto
 
 
 ## DANIEL
