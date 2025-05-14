@@ -19,6 +19,8 @@
 ## KEVIN / ALEX
 - Produtividade em algumas tarefas
 - Capacity
+- Customer Facing team (person)
+- DB1 Senior guy (Iuri)
 
 ## MILO
 - Boleto
