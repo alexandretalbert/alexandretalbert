@@ -18,6 +18,7 @@
 
 ## KEVIN / ALEX
 - Produtividade em algumas tarefas
+- Endpoit publico voltando status de cartão
 - Capacity
 - Customer Facing team (person)
 - DB1 Senior guy (Iuri)
