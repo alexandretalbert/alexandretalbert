@@ -21,8 +21,9 @@
 - Shein Nequi
 - Capacity
 - Customer Facing team (person)
-- - WS TOken Endpoit publico voltando status de cartão (incident)
+- WS TOken Endpoit publico voltando status de cartão (incident)
 - DB1 Senior guy (Iuri)
+- Yan
 
 ## MILO
 - Boleto
