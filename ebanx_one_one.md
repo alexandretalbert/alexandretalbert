@@ -17,13 +17,14 @@
 - Pedir Ajuda
 
 ## KEVIN 
-- Produtividade em algumas tarefas
 - Shein Nequi
-- Capacity
 - Customer Facing team (person)
+- Payops + Cloudops
+- Capacity
 - WS TOken Endpoit publico voltando status de cartão (incident)
 - DB1 Senior guy (Iuri)
 - Yan
+- Temas: Spotify NT, Yape, Netflix
 
 ## MILO
 - Boleto
