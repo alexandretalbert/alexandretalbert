@@ -16,11 +16,12 @@
 - Colaborar com pares
 - Pedir Ajuda
 
-## KEVIN / ALEX
+## KEVIN 
 - Produtividade em algumas tarefas
-- Endpoit publico voltando status de cartão
+- Shein Nequi
 - Capacity
 - Customer Facing team (person)
+- - WS TOken Endpoit publico voltando status de cartão (incident)
 - DB1 Senior guy (Iuri)
 
 ## MILO
