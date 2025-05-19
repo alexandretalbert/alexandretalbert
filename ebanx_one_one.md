@@ -62,7 +62,10 @@
 - India DOC
 - Rec Plan
 
-## SEBA
+## MARLON
+- Queries padronização
+- Devin.AI
+- Padronização packages
 
 ## GEICY
 - Follow up nos canais semana que vem (Yape, Spotify, Temu)
