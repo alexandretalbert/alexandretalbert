@@ -139,7 +139,10 @@ To do
 ## Anderson
 ### Achievements / Evidences
 - Providers capabilities
-- RFI and processes improvements
+- RFI and processes improvements for the Integrations team
+- Engineering initiatives: receive date, queries standardization
+- Progrediu como líder técnico do time de integraçoes
+- .....
   
 ### Keep doing
 - Being a technical reference for the team
@@ -173,8 +176,11 @@ To do
 <!------------------------------------------------------------------------------------------------>
 ## Precious
 ### Achievements / Evidences
-- 10/3 Meta Rollout technical leadership and follow up
-- 11/3 Interswitch discussions
+- Meta Rollout technical leadership and follow up
+- Interswitch discussions
+- Led all major matters in Africa (partners issues, rollouts, new integrations,..) with good business acumen and dominating the flows as a whole
+- Reference within the Integrations team
+- He is now overseeing Africa and Asia
 
 ### Keep doing
 - Stakeholders management, on kick offs, alingments (PAGA)
