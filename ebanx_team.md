@@ -237,11 +237,18 @@ To do
 ## Sam
 ### Achievements / Evidences
 - Leading Philipines and Paymongo integration
-- Canva deal (bridge)
-- Adobe
+- Canva deal (being the bridge with other areas)
+- Adobe Canva support
+- Dealt with issues and incidents, handling the Tech part with autonomy (guiding the team also). Ex.: Razor Pay, Fastspring
+- The way Sam dominated the topics, even those beyond integration (ex.: Money Flow)
+- 
 
   
 ### Keep doing
+- Continue to deep dive on technical aspects of the platform?
+- Giving visibility to stakeholders on progress, blockers and risks
+- High accountability and ownership on matters
+
 ### To improve
 - Status on the projects (gaps)
 - Be more strategic 
