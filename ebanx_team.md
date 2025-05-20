@@ -2,7 +2,7 @@
 
 ## Alexandre
 ### Achievements / Evidences 
-- Integration 's Team organization
+- Integration 's Team organization / restructuring
 - Developers Academy launch (HANDS ON EXEC)
 - Enigma
 - Performance Platfom 
@@ -18,13 +18,11 @@
 - Gestão de incidentes
 - Padrões em Integrações
 - Priorização de produto e Visibilidade de progresso
+- Philipines expansion
   
 ### Keep doing
-- she challenges partners and other areas
-- great business acumen 
 
 ### To improve
-- needs to be more strategic in relationships with stakeholders
   
 ### PDI
 To do
@@ -35,12 +33,13 @@ To do
 - Puxou conversa com Edu e time para alinhar dificuldades (7/2)
 - Mentoria Stefany TAM Spotify
 - Aproximou-se do time de operações ajudando inclusive a melhorar processos e passando conhecimento
-- bom direcionamento do time para atenção a processos, visibilidade e colaboração
+- Bom direcionamento do time para atenção a processos, visibilidade e colaboração
 - Visão do todo. Foi muito madura na questão do Maia
 - Feedback do Peixoto na ocasiao da visita a parceiros em Colombia, Peru (como ela foi madura e como contribuiu para temas importantes para EBANX)
 - Viagem acompanhando Operações pelos paises para visita a parceiros (Acquirers, Issuers,...)
 - Criação da squad com foco em Liveops (mais proximidade e agilidade na operação)
-- Mesas de trabalho com Operacoes
+- Puxou mesas de trabalho com Operacoes
+- Visibilidade (bi weeklys reports)
   
 ### Keep doing
 - Being results oriented / focused (15/4/2025)
@@ -62,10 +61,11 @@ To do
 <!------------------------------------------------------------------------------------------------>
 ## Felps
 ### Achievements / Evidences
-10/2 - Leading expansion weeklies with solid knowledge on statuses and business
-18/2 - Retormou as Tech Meetups
-20/2 - Integrations Squads
-
+- Leading expansion weeklies with solid knowledge on statuses and business
+- Retomou as Tech Meetups and Talks
+- Integrations Squads
+- Bom direcionamento e proximidade com o time
+- Alta colaboração com Product Strategy e TPMs
 
 ### Keep doing
 - Proximity to the team and active listening (15/4/2025)
@@ -86,15 +86,13 @@ To do
 <!------------------------------------------------------------------------------------------------>
 ## Kevin
 ### Achievements / Evidences
-- 6/2 Ownership dos custos. Questionou cobranças que vieram da DB1
-- 10/2 Maturidade nos comites de calibragem
-- 10/3 nessa semana Kevin mergulhou nos detalhes de Meta, ajudando o time inclusive codando e organizando as pendencias com Sales Eng. (Hands On)
-- Google Cards MX
-- PIX Auto
-- Performance Platform (cedeu Devs SRs entendendo a importancia)
+- Ownership dos custos. Questionou cobranças que vieram da DB1
+- Maturidade nos comites de calibragem
+- Supervisionou integração reversa de Meta e Google, mantendo bom alinhamento com times de operações (Hands On also)
 - Meta Rollout Africa, MP MX, Nequi, Nu Pay
-- Feature Rollout
-- Olhar do todo (cedeu profissinais para projetos importantes lidando com impactos)!
+- Integração Google Cards MX
+- Olhar do todo, cedendo profissionais SR para projetos como Artemis, Secrets e PIX Automático
+- Esteve à frente da entrega da funcionalidade de "Feature Rollout"
 
 ### Keep doing
 - Transparency (15/4/2025)
@@ -118,6 +116,8 @@ To do
 <!------------------------------------------------------------------------------------------------>
 ## Gustavo
 ### Achievements / Evidences
+- ?? 
+
 ### Keep doing
 - Learning EBANX (incidents and issues shadowing)
 - Improving ways of working and processes
