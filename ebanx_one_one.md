@@ -2,12 +2,9 @@
 # 1:1
 
 ## ROSSETTO
-- Movimentação Anderson
-- Org vs Strategy
-- Vagas
+- Single Transaction
+- Lucas Fraccaro
 - Tiago
-- Incident Criticality
-- Produtuvidade
 
   
 ## GUSTAVO
