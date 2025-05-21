@@ -3,6 +3,7 @@
 
 ## ROSSETTO
 - Single Transaction
+- Caso Shein
 - Lucas Fraccaro
 - Febraban Tech
 
