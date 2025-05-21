@@ -2,10 +2,10 @@
 # 1:1
 
 ## ROSSETTO
+- IxoPay
 - Single Transaction
 - Caso Shein
 - Lucas Fraccaro
-- tokenex
 - Febraban Tech
 
   
