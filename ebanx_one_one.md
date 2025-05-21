@@ -3,10 +3,6 @@
 
 ## ROSSETTO
 - IxoPay
-- Single Transaction
-- Caso Shein
-- Lucas Fraccaro
-- Febraban Tech
 
   
 ## GUSTAVO
