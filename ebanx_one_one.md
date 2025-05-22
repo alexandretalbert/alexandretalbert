@@ -83,8 +83,10 @@
 - Houston ownership
 
 ## PRECIOUS
-- Q2 Board
-- IDP
+- Q2 
+- People management
+- Sidharta
+- India and Philippines
 
 ## PAULA
 - ETA
