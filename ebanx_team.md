@@ -245,7 +245,8 @@ To do
 - Leading Philipines and Paymongo integration
 - Canva deal (being the bridge with other areas)
 - Adobe Canva support
-- Dealt with issues and incidents, handling the Tech part with autonomy (guiding the team also). Ex.: Razor Pay, Fastspring
+- Dealt with issues and incidents, handling the Tech part with autonomy (guiding the team also).
+- Fasspring issues and ramp up
 - The way Sam dominated the topics, even those beyond integration (ex.: Money Flow)
 - 
 
