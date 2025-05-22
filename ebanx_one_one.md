@@ -85,6 +85,7 @@
 ## PRECIOUS
 - Q2 
 - People management
+- SAM
 - Sidharta (2/6)
 - India and Philippines
 
