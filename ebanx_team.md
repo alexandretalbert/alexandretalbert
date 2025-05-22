@@ -154,7 +154,7 @@ To do
 - Dedicate time to improve processes and struturing initiatives
 - Keep developing your English
 - Gradually move to people management (feedbacks, development, performance)
-
+- People and negotiation more than tech
 
 ### PDI
 To do
