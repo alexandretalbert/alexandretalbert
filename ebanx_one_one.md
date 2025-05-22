@@ -83,7 +83,10 @@
 - Houston ownership
 
 ## PRECIOUS
-- Q2 
+- Priorities
+  - Philippines
+  - Capitec Pay
+  - Fastspring (INDIA)
 - People management
 - SAM
 - Sidharta (2/6)
