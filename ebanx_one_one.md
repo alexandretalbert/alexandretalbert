@@ -85,7 +85,7 @@
 ## PRECIOUS
 - Q2 
 - People management
-- Sidharta
+- Sidharta (2/6)
 - India and Philippines
 
 ## PAULA
