@@ -96,4 +96,18 @@
 - ETA
 - BAC
 
-## KALECSER
+## EDU
+Hey Alexandre,
+
+I would like you to think about the following questions:
+- In which products should we invest now and in 2026?
+- What can we do better as a Product team?
+  - Reinforce our Liveops lane with the dedicated squad (avoid impacting roadmaps with firefighting)
+  - Focus, Focus, Focus. Less, with more impact
+  - Avoid the waterfall model (SPMs closer to TPMs on day to day) 
+- Where do you believe we can start to use AI on the Product development process and on the Product itself?
+  - in coding and technical discoveries (DEVIN)
+  - accelerating solutions discoveries, demands writing and prioritization (validating it to ensure robust writing and clear priorities)
+  - model considering Berkeley framework???
+  - Agentic Payemtns!?
+  - Be careful...apply AI onlye on real problems solving
