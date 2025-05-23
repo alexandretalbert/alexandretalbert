@@ -109,5 +109,5 @@ I would like you to think about the following questions:
   - in coding and technical discoveries (DEVIN)
   - accelerating solutions discoveries, demands writing and prioritization (validating it to ensure robust writing and clear priorities)
   - model considering Berkeley framework???
-  - Agentic Payemtns!?
+  - Agentic Payemtns!? Prepare our API to Agent frameworks? https://stripe.dev/blog/adding-payments-to-your-agentic-workflows
   - Be careful...apply AI onlye on real problems solving
