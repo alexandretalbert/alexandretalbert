@@ -5,7 +5,7 @@
 - Vaga SR Fechada
 - Replace Vini
 - Times locais nos paises
-- Yuri
+- Falta de Devs? 
 
   
 ## GUSTAVO
