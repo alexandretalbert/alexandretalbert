@@ -109,5 +109,20 @@ I would like you to think about the following questions:
   - in coding and technical discoveries (DEVIN)
   - accelerating solutions discoveries, demands writing and prioritization (validating it to ensure robust writing and clear priorities)
   - model considering Berkeley framework???
-  - Agentic Payemtns!? Prepare our API to Agent frameworks? https://stripe.dev/blog/adding-payments-to-your-agentic-workflows
+  - Agentic Payemtns!? Prepare our API to Agent frameworks?
+    - LINKS:   
+      - https://stripe.dev/blog/adding-payments-to-your-agentic-workflows
+      - https://www.pymnts.com/artificial-intelligence-2/2025/agentic-ai-is-quietly-reshaping-the-ecommerce-funnel/
+      - https://finovate.com/4-companies-bringing-agentic-ai-to-checkout/
+      - https://www.forbes.com/sites/danielwebber/2025/03/26/payments-has-embraced-artificial-intelligence-but-agentic-ai-brings-a-new-horizon/
+      - https://www.americanbanker.com/payments/news/visa-mastercard-launch-payments-for-agentic-ai?utm_source=chatgpt.com
+      - https://www.pymnts.com/news/artificial-intelligence/2025/visa-mastercard-paypal-fuel-agentic-ai-commerce-boom/?utm_source=chatgpt.com
+      - https://www.mastercard.com/news/press/2025/april/mastercard-unveils-agent-pay-pioneering-agentic-payments-technology-to-power-commerce-in-the-age-of-ai/?utm_source=chatgpt.com
+      - https://apnews.com/article/ai-artificial-intelligence-5dfa1da145689e7951a181e2253ab349
+      - https://www.pymnts.com/artificial-intelligence-2/2025/agentic-ai-emerges-as-fix-for-cross-border-payment-frictions/?utm_source=chatgpt.com
+    - Oportunidades:
+      - Desenvolvimento de APIs compatíveis com agentes de IA: Adaptar suas APIs para permitir integrações diretas com agentes autônomos, facilitando transações sem intervenção humana.
+      - Implementação de tokenização avançada: Inspirando-se nos Agentic Tokens da Mastercard, o EBANX pode desenvolver soluções de tokenização que garantam segurança e flexibilidade em pagamentos          programáveis.
+      - Parcerias estratégicas com plataformas de IA: Colaborar com empresas de IA para integrar soluções de pagamento diretamente em assistentes virtuais e agentes autônomos.
+      - Foco em mercados emergentes na América Latina: Aproveitar sua presença consolidada na região para testar e implementar soluções inovadoras de pagamentos com IA agentiva, atendendo às               necessidades específicas dos consumidores locais.
   - Be careful...apply AI onlye on real problems solving
