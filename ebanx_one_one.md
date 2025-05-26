@@ -4,6 +4,7 @@
 ## ROSSETTO
 - Vaga SR Fechada
 - Replace Vini
+- Times locais nos paises
 
   
 ## GUSTAVO
