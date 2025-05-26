@@ -102,7 +102,7 @@ Hey Alexandre,
 I would like you to think about the following questions:
 - In which products should we invest now and in 2026?
   - Performance improvements and Integrations
-  -   
+  - Local teams challenge
 - What can we do better as a Product team?
   - Reinforce our Liveops lane with the dedicated squad (avoid impacting roadmaps with firefighting)
   - Focus, Focus, Focus. Less, with more impact
