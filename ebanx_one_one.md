@@ -5,6 +5,7 @@
 - Vaga SR Fechada
 - Replace Vini
 - Times locais nos paises
+- Yuri
 
   
 ## GUSTAVO
