@@ -2,7 +2,8 @@
 # 1:1
 
 ## ROSSETTO
-- IxoPay
+- Vaga SR Fechada
+- Replace Vini
 
   
 ## GUSTAVO
@@ -12,15 +13,10 @@
 - Pedir Ajuda
 
 ## KEVIN 
-- Shein Nequi
-- Customer Facing team (person)
-- Payops + Cloudops
-- Capacity
-- WS TOken Endpoit publico voltando status de cartão (incident)
-- DB1 Senior guy (Iuri)
-- Yan
-- Temas: Spotify NT, Yape, Netflix
-
+- Replace do Vini
+- Desafios com o time
+- Maringá
+  
 ## MILO
 - Boleto
 - Monday sem padrão (coisas done em dev mas...)
