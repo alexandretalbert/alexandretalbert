@@ -4,6 +4,7 @@
 ## ROSSETTO
 - Vaga SR Fechada
 - Replace Vini
+- Netflix e Supercell (FS)
 - Começaremos um review de pessoas, antecipando movimentos
 - Times locais nos paises
 - Falta de Devs? 
