@@ -19,6 +19,7 @@
 - Capacity
 - Desafios com o time!
 - Maringá
+- API Security tasks
   
 ## MILO
 - Boleto
