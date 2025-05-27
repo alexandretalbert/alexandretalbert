@@ -22,6 +22,7 @@
 - Desafios com o time!
 - Maringá
 - API Security tasks
+- MULHERES - Sentimento de se provarem em dobro
   
 ## MILO
 - Boleto
