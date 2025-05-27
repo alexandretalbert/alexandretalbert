@@ -53,9 +53,7 @@
 - Yesbank Onboardking APi
 
 ## SAM
-- Paymongo (congrats on how you are leading tech and addressing other things without absorve)
-- India DOC
-- Rec Plan
+- Sidhartha
 
 ## MARLON
 - Queries padronização
