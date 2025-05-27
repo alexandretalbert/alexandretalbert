@@ -4,6 +4,7 @@
 ## ROSSETTO
 - Vaga SR Fechada
 - Replace Vini
+- PIX 16/6 0:00
 - Netflix e Supercell (FS)
 - Começaremos um review de pessoas, antecipando movimentos
 - Times locais nos paises
