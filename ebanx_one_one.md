@@ -16,8 +16,8 @@
 
 ## KEVIN 
 - Replace do Vini
-- Capacity!
-- Desafios com o time
+- Capacity
+- Desafios com o time!
 - Maringá
   
 ## MILO
