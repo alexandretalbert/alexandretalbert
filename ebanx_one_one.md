@@ -2,13 +2,12 @@
 # 1:1
 
 ## ROSSETTO
-- Vaga SR Fechada
-- Replace Vini
+- Vaga SR Fechada (Gustavo)
+- Replace Vini (DB1)
 - PIX 16/6 0:00
 - Netflix e Supercell (FS)
-- Começaremos um review de pessoas, antecipando movimentos
+- Começaremos um review de pessoas, antecipando movimentos (Syuiri vaga SR
 - Times locais nos paises
-- Falta de Devs? 
 
   
 ## GUSTAVO
