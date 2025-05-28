@@ -81,7 +81,8 @@
 
 ## FELPS
 - Capacity
-- Customer Facing team
+- AI initiatives
+- Work model (detectou-se que pessoal não está seguindo o combinado. vamos reforçar com o time. papo joao)
 - Houston ownership
 
 ## PRECIOUS
