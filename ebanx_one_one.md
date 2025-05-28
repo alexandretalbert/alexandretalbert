@@ -82,7 +82,7 @@
 ## FELPS
 - Capacity
 - AI initiatives
-- Espaços para Paula e TPMs
+- Espaços para Paula e TPMs (Senior em cada squad)
 - Work model (detectou-se que pessoal não está seguindo o combinado. vamos reforçar com o time. papo joao)
 - Houston ownership
 
