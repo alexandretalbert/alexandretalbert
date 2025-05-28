@@ -7,6 +7,7 @@
 - PIX 16/6 0:00
 - Netflix e Supercell (FS)
 - Começaremos um review de pessoas, antecipando movimentos (Syuiri vaga SR
+- SP???
 - Times locais nos paises
 
   
