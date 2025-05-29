@@ -2,6 +2,7 @@
 # 1:1
 
 ## ROSSETTO
+- Rashmi's perception on Sam (as Sam is product, seh is the one responsible for INDIA)
 - Vaga SR Fechada (Gustavo)
 - Replace Vini (DB1)
 - PIX 16/6 0:00
