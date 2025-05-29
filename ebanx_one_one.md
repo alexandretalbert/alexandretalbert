@@ -72,9 +72,9 @@
 - Padronização packages
 
 ## GEICY
-- Follow up nos canais semana que vem (Yape, Spotify, Temu)
-- Q2 Items progress (Status, engineering board)
-- Liveops vs Evolução, Team Org (squads, liveops prioritization)
+- Help Request Form Process
+- Squads org
+- AI (Devin for TPMs)
 
 ## SERGIO
 
