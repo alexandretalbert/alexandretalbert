@@ -25,12 +25,10 @@
 
 ## KEVIN 
 - Replace do Vini
-- Capacity
-- Desafios com o time!
-- Maringá
-- API Security tasks
-- MULHERES - Sentimento de se provarem em dobro
-  
+- Modelo 4 x 1
+- Artemis
+- AI
+    
 ## MILO
 - Boleto
 - Monday sem padrão (coisas done em dev mas...)
