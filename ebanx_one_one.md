@@ -3,6 +3,11 @@
 
 ## ROSSETTO
 - Rashmi's perception on Sam (as Sam is product, seh is the one responsible for INDIA)
+  - Visibility on whats is happening with partners and deploys
+  - Understanding of payments
+  - Docmentation (internal and external)
+  - Escalate things when needed
+  - Own Product for India
 - Vaga SR Fechada (Gustavo)
 - Replace Vini (DB1)
 - PIX 16/6 0:00
