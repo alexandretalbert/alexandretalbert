@@ -23,10 +23,9 @@
 - Colaborar com pares
 - Pedir Ajuda
 
-## KEVIN 
-- Replace do Vini
+## KEVIN  
+- X Router (ale)
 - Modelo 4 x 1
-- Artemis
 - AI
     
 ## MILO
