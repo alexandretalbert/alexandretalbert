@@ -70,9 +70,9 @@
 
 ## GEICY
 - Help Request Form Process
-- Demanda XRouter
 - Squads org
 - AI (Devin for TPMs)
+- Capacity (let's build a summery)
 
 ## SERGIO
 
