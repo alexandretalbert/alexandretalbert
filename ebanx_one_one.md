@@ -2,6 +2,7 @@
 # 1:1
 
 ## ROSSETTO
+- Impactos do IOF
 - Rashmi's perception on Sam (as Sam is product, seh is the one responsible for INDIA)
   - Visibility on whats is happening with partners and deploys
   - Understanding of payments
