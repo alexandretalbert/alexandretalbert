@@ -4,8 +4,9 @@
 ## ROSSETTO
 - Impactos do IOF
 - llms.txt
+- Nao temos Strategic PM nas regioes (Africa, India, Asia). Modelo atual não vai funcionar
 - Rashmi's and Sam
-- 
+  
 
 ## GUSTAVO
 - Se sentir dono do tema refunds
