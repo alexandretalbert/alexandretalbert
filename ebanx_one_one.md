@@ -62,7 +62,11 @@
 - Yesbank Onboardking APi
 
 ## SAM
-- Sidhartha
+- Sidhartha shadow
+- regular visibility on
+  - Highlights, Coming up next, Risks/Blockers
+  - Documentation
+  - 
 
 ## MARLON
 - Queries padronização
