@@ -3,21 +3,10 @@
 
 ## ROSSETTO
 - Impactos do IOF
-- Rashmi's perception on Sam (as Sam is product, seh is the one responsible for INDIA)
-  - Visibility on whats is happening with partners and deploys
-  - Understanding of payments
-  - Docmentation (internal and external)
-  - Escalate things when needed
-  - Own Product for India
-- Vaga SR Fechada (Gustavo)
-- Replace Vini (DB1)
-- PIX 16/6 0:00
-- Netflix e Supercell (FS)
-- Começaremos um review de pessoas, antecipando movimentos (Syuiri vaga SR
-- SP???
-- Times locais nos paises
+- llms.txt
+- Rashmi's and Sam
+- 
 
-  
 ## GUSTAVO
 - Se sentir dono do tema refunds
 - Como é algo ainda com arestas, não esperar que as demanas virão de forma madura
