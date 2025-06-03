@@ -5,7 +5,7 @@
 - Impactos do IOF
 - llms.txt
 - Nao temos Strategic PM nas regioes (Africa, India, Asia). Modelo atual não vai funcionar
-- Rashmi's and Sam
+- Rashmi's and Sam (contato com Parceiro, vc ve que deveria ser a Sam? Frustração da Rashmi sobre contato constante com o TAM da RPM)
   
 
 ## GUSTAVO
