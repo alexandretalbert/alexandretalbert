@@ -64,10 +64,10 @@
 - Padronização packages
 
 ## GEICY
-- Help Request Form Process
-- Squads org
+- Help Request Form Process and Squads
 - AI (Devin for TPMs)
-- Capacity (let's build a summery)
+- Help on ensure the proper process and visibility during execution (delivery progress)
+- Team has a good level of autonomy in execution. My feedback would be how do you expose them gradually (communication victories for example)
 
 ## SERGIO
 
