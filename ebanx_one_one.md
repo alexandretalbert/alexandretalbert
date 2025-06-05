@@ -60,7 +60,7 @@
 - regular visibility on
   - Highlights, Coming up next, Risks/Blockers
   - Documentation
-  - 
+- Continue to deep dive on technical knowledge 
 
 ## MARLON
 - Queries padronização
