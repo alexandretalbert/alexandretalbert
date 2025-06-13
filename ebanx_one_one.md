@@ -3,23 +3,8 @@
 
 ## ROSSETTO
 
-- Artemis
-- Rashmi's Feedback (on it with PK)
-- Stripe !!!!
-- Cheers
-- Auditoria
-    - Fluxo de pagamentos
-    - Gestão de mudança (Monday e Github) Exportar     
-- Team autonomy
-    - Paymongo
-    - Capitec
-    - Stripe
-    - Canva and Adobe
-    - India general issues
-    - Africa topics
-    - Refunds
-    - Performance squads
-    - 
+- Precious Team PLAN
+- Sayuri
 
 ## GUSTAVO
 - Se sentir dono do tema refunds
