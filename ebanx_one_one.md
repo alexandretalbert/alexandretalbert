@@ -77,11 +77,15 @@
   
 
 ## FELPS
-- Capacity
-- AI initiatives
-- Espaços para Paula e TPMs (Senior em cada squad)
-- Work model (detectou-se que pessoal não está seguindo o combinado. vamos reforçar com o time. papo joao)
-- Houston ownership
+- Vagas
+- Espaco quezia
+- Hot topics
+    - India (Stripe, FastSpring, Error SBX, Docs Update )
+    - Paymongo PHP
+    - Capitec Pay SA
+- Precious vs Anderson
+- Novas pessoas (Rebeca e Sid)
+  
 
 ## PRECIOUS
 - Priorities
