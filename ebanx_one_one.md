@@ -80,7 +80,13 @@
 - Vagas
 - Espaco quezia
 - Hot topics
-    - India (Stripe, FastSpring, Error SBX, Docs Update )
+    - Sam e Rash
+    - India (
+        - Stripe,
+        - FastSpring,
+        - Error SBX,
+        - Docs Update
+        - Deeoplink error
     - Paymongo PHP
     - Capitec Pay SA
 - Precious vs Anderson
