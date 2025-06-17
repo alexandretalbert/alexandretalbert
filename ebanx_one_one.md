@@ -6,6 +6,7 @@
 - Precious Team PLAN
 - Sayuri
 - Conflito Geicy / Anderson
+- Campos obrigatorios
 
 ## GUSTAVO
 - Se sentir dono do tema refunds
