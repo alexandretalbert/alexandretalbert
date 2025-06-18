@@ -10,6 +10,7 @@
 - Campos obrigatorios
 - Country Readiness (reuniao com Marie Elise) Tá bem confuso isso
 - Step Up (PK e Anderson)
+- Job Levelling
 - Sexta em casa
 
 ## GUSTAVO
