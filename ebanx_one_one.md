@@ -8,6 +8,7 @@
 - Conflito Geicy / Anderson 
 - Campos obrigatorios
 - Country Readiness (reuniao com Marie Elise)
+- Step Up (PK e Anderson)
 
 ## GUSTAVO
 - Se sentir dono do tema refunds
