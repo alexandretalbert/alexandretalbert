@@ -9,6 +9,7 @@
 - Campos obrigatorios
 - Country Readiness (reuniao com Marie Elise)
 - Step Up (PK e Anderson)
+- Sexta em casa
 
 ## GUSTAVO
 - Se sentir dono do tema refunds
