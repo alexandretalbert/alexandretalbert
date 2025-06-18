@@ -3,10 +3,11 @@
 
 ## ROSSETTO
 
-- Precious Team PLAN
+- Precious Team PLAN and Rash's call
 - Sayuri
 - Conflito Geicy / Anderson 
 - Campos obrigatorios
+- Country Readiness (reuniao com Marie Elise)
 
 ## GUSTAVO
 - Se sentir dono do tema refunds
