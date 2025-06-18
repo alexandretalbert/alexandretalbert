@@ -5,9 +5,10 @@
 
 - Precious Team PLAN and Rash's call
 - Sayuri
-- Conflito Geicy / Anderson 
+- Conflito Geicy / Anderson
+- Gustavo.....
 - Campos obrigatorios
-- Country Readiness (reuniao com Marie Elise)
+- Country Readiness (reuniao com Marie Elise) Tá bem confuso isso
 - Step Up (PK e Anderson)
 - Sexta em casa
 
