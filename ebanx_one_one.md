@@ -7,8 +7,8 @@
 - Sayuri
 - Conflito Geicy / Anderson
 - Gustavo.....
-- Campos obrigatorios
 - Country Readiness (reuniao com Marie Elise) Tá bem confuso isso
+- Campos obrigatorios
 - Step Up (PK e Anderson)
 - Job Levelling
 - Sexta em casa
