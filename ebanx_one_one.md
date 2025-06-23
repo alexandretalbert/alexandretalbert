@@ -2,16 +2,10 @@
 # 1:1
 
 ## ROSSETTO
-
-- Precious Team PLAN and Rash's call
-- Sayuri
-- Conflito Geicy / Anderson
-- Gustavo.....
-- Country Readiness (reuniao com Marie Elise) Tá bem confuso isso
-- Campos obrigatorios
-- Step Up (PK e Anderson)
-- Job Levelling
-- Sexta em casa
+- Step up (12)
+- Maringá
+- Fankin (mesmo feedback Rash)
+- 
 
 ## GUSTAVO
 - Se sentir dono do tema refunds
