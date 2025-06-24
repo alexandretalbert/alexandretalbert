@@ -2,10 +2,14 @@
 # 1:1
 
 ## ROSSETTO
+- Muita coisa (tentando priorizar)
+    - Q3 discussions (Africa, India, Performance issues...)
+    - Capitec Pay
+    - Paymongo
 - Step up (12)
 - Maringá
 - Fankin (mesmo feedback Rash)
-- 
+- Stripe end of July
 
 ## GUSTAVO
 - Se sentir dono do tema refunds
