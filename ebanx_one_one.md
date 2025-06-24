@@ -9,7 +9,7 @@
 - Step up (12)
 - Maringá
 - Fankin (mesmo feedback Rash)
-- Stripe end of July
+- Stripe end of July (PK)
 
 ## GUSTAVO
 - Se sentir dono do tema refunds
