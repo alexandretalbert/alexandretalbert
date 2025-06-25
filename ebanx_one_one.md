@@ -2,13 +2,9 @@
 # 1:1
 
 ## ROSSETTO
-- Muita coisa (tentando priorizar)
-    - Q3 discussions (Africa, India, Performance issues...)
-    - Capitec Pay
-    - Paymongo
 - Step up (12)
-- Maringá
-- Fankin (mesmo feedback Rash)
+- Maringá update
+- Docs update by Integrations TPM
 - Stripe end of July (PK)
 
 ## GUSTAVO
