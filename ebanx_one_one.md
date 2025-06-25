@@ -3,6 +3,7 @@
 
 ## ROSSETTO
 - Step up (12)
+- Paymongo and Capitec
 - Maringá update
 - Docs update by Integrations TPM
 - Stripe end of July (PK)
