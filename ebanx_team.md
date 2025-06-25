@@ -26,7 +26,9 @@
 - Philipines expansion
 - Improve collbaoration in India operation
 - Restruturacao das squads de performance para uma organização menos volatil  (Livops, PErformance, Cards, APMs, Refunds)
-- 
+- Help Request Proccess
+- Liveops!
+- Aproximação da Engenharia a operações
 
 
 <!------------------------------------------------------------------------------------------------>
