@@ -3,7 +3,7 @@
 
 ## ROSSETTO
 - Step up (12)
-- Feedback Felipe
+- Feedback Felipe e feedback Yape Marlon
 - Paymongo and Capitec
 - Maringá update
 - Docs update by Integrations TPM
