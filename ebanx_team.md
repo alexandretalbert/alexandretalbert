@@ -41,9 +41,11 @@
 - Visão do todo. Foi muito madura na questão do Maia
 - Feedback do Peixoto na ocasiao da visita a parceiros em Colombia, Peru (como ela foi madura e como contribuiu para temas importantes para EBANX)
 - Viagem acompanhando Operações pelos paises para visita a parceiros (Acquirers, Issuers,...)
-- Criação da squad com foco em Liveops (mais proximidade e agilidade na operação)
+- Restruturacao das SQauds pra mais proximidade e assertividade
 - Puxou mesas de trabalho com Operacoes
 - Visibilidade (bi weeklys reports)
+- Assumiu a frente em Refunds em um momento critico
+- NETFLIX, YAPE, PIX AUTOMATICO COM SARAH
 
 <!------------------------------------------------------------------------------------------------>
 ## Felps
