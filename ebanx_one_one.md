@@ -2,11 +2,10 @@
 # 1:1
 
 ## ROSSETTO
+- Papo com Edu
 - Step up (12)
 - Feedback Felipe e feedback Yape Marlon vs Dalton
-- Paymongo and Capitec
 - Maringá update
-- Docs update by Integrations TPM
 - Stripe end of July (PK)
 
 ## GUSTAVO
