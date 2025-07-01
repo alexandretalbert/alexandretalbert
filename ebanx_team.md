@@ -99,6 +99,8 @@
 - Led all major matters in Africa (partners issues, rollouts, new integrations,..) with good business acumen and dominating the flows as a whole
 - Reference within the Integrations team
 - He is now overseeing Africa and Asia
+- Opay
+- India and Philipinnes
 
 <!------------------------------------------------------------------------------------------------>
 ## Shelton
