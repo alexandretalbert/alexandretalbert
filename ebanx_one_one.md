@@ -7,6 +7,7 @@
 - Feedback Felipe e feedback Yape Marlon vs Dalton
 - Maringá update
 - Stripe end of July (PK)
+- SObrecarregado com a quantidade de temas (
 
 ## GUSTAVO
 - Se sentir dono do tema refunds
