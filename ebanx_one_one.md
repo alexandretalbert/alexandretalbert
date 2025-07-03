@@ -2,12 +2,8 @@
 # 1:1
 
 ## ROSSETTO
-- Papo com Edu
-- Step up (12)
-- Feedback Felipe e feedback Yape Marlon vs Dalton
-- Maringá update
-- Stripe end of July (PK)
-- SObrecarregado com a quantidade de temas (
+- Marlon
+- AI na plataforma (Milo)
 
 ## GUSTAVO
 - Se sentir dono do tema refunds
