@@ -97,14 +97,9 @@
   
 
 ## PRECIOUS
-- Priorities
-  - Philippines
-  - Capitec Pay
-  - Fastspring (INDIA)
-- People management
-- SAM
-- Sidharta (2/6)
-- India and Philippines
+- India MVP
+- Sid vs Sam
+- Ghana Temu
 
 ## PAULA
 - ETA
