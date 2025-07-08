@@ -3,7 +3,9 @@
 
 ## ROSSETTO
 - Marlon
-- AI na plataforma (Milo)
+- Geicy
+- Victor
+- Stripe
 
 ## GUSTAVO
 - Se sentir dono do tema refunds
