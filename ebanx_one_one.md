@@ -2,6 +2,7 @@
 # 1:1
 
 ## ROSSETTO
+- Stable Coins - Pay in use case
 - Marlon
 - Geicy
 - Victor
