@@ -3,6 +3,7 @@
 
 ## ROSSETTO
 - Stable Coins - Pay in use case
+- Vaga MENA
 - Marlon
 - Geicy
 - Victor
