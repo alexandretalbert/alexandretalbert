@@ -16,6 +16,8 @@
 ## KEVIN  
 
 ## ANDERSON
+- Timeline entregas
+- Salva vs Paula
 
 ## MARLON
 
