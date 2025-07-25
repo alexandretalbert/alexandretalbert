@@ -2,6 +2,7 @@
 # 1:1
 
 ## ROSSETTO
+- Estrutura Global
 - Strategy: not helping in Performance...in Global Expansion I see Rafa and Country directores
 - Geicy
 - Victor
