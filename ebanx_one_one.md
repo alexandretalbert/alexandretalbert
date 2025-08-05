@@ -17,6 +17,7 @@
 
 ## FELPS
 - Dashboard para Capitec ?
+- Fidias
 
 ## PRECIOUS
 - Strategy Philippines
