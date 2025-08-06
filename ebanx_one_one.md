@@ -5,7 +5,8 @@
 - Refunds Team
 - Estrutura Global: Precious, MENA TPM
 - Acesso Concur
-
+- MCP
+  
 ## GUSTAVO
 
 ## KEVIN  
@@ -22,4 +23,8 @@
 
 ## PRECIOUS
 - Strategy Philippines
+
+## JULIA
+- Precious
+- Global
 
