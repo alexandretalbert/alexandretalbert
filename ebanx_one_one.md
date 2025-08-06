@@ -4,6 +4,7 @@
 ## ROSSETTO
 - Refunds Team
 - Estrutura Global: Precious, MENA TPM
+- Acesso Concur
 
 ## GUSTAVO
 
