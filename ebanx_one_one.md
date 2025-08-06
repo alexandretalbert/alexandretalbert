@@ -3,7 +3,7 @@
 
 ## ROSSETTO
 - Refunds Team
-- Estrutura Global (PREOCUPACAO COM PRECIOUS)
+- Estrutura Global: Precious, MENA TPM
 
 ## GUSTAVO
 
