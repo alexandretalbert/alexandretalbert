@@ -22,6 +22,8 @@
 - Fidias
 
 ## PRECIOUS
+- Comp
+- SId vs Sam
 - Strategy Philippines
 
 ## JULIA
