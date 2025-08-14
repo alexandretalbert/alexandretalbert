@@ -4,7 +4,7 @@
 ## ROSSETTO
 - Strategy (brainstorm)
 - Spice
-- Mena
+- Mena and Precious
 - Geicy como Manager e Team Leader
 - MCP
   
