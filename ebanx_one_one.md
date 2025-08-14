@@ -5,6 +5,7 @@
 - Strategy (brainstorm)
 - Spice
 - Mena and Precious
+- Retry Para Stripe
 - Geicy como Manager e Team Leader
 - MCP
   
