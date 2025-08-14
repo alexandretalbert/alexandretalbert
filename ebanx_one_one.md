@@ -2,6 +2,7 @@
 # 1:1
 
 ## ROSSETTO
+- VPA Validator
 - Strategy (brainstorm)
 - Spice
 - Mena and Precious
