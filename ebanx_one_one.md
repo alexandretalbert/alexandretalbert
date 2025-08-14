@@ -2,13 +2,7 @@
 # 1:1
 
 ## ROSSETTO
-- VPA Validator
-- Strategy (brainstorm)
-- Spice
-- Mena and Precious
-- Retry Para Stripe
-- Geicy como Manager e Team Leader
-- MCP
+- Alerta Houston >> Devin >> Houston (IA)
   
 ## GUSTAVO
 
