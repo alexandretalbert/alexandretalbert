@@ -3,6 +3,7 @@
 
 ## ROSSETTO
 - Strategy (brainstorm)
+- Geicy como Manager e Team Leader
 - MCP
   
 ## GUSTAVO
