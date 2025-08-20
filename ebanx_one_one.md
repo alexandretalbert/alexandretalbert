@@ -2,6 +2,10 @@
 # 1:1
 
 ## ROSSETTO
+- Stripe (plantao)
+- Precious (antecipar o papo com ele e Seba)
+- Gustavo
+- Hash com CVV (brand mandate)
 - Alerta Houston >> Devin >> Houston (IA)
   
 ## GUSTAVO
