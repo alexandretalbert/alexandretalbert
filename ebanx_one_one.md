@@ -17,8 +17,8 @@
 ## MARLON
 
 ## GEICY  
-- Quando está em reunião, e vc está digitando com alguém .... a pessoa pode interpretar
-- Demo técnica do Feature Manager
+- Gustavo e Gabs
+- Estrutura Global Integrations
 - Vaga
 
 ## FELPS
