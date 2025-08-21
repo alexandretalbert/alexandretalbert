@@ -31,9 +31,9 @@
 - Strategy Philippines
 
 ## JULIA
-- Precious
-- Global
-
+- Precious promoção
+- Global para Edu
+- Preocupação com o "técnico"que vinha evoluindo
 
 # SEBA / MILO
 - O lado técnico dos TPMs precisa continuar
