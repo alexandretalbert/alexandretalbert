@@ -35,7 +35,12 @@
 - Global para Edu
 - Preocupação com o "técnico"que vinha evoluindo
 
-# SEBA / MILO
+#MILO
+- Achei que estamos achando um modelo
+- Brainstorms de Strategy + Liveops / Refunds / Performance (e unimos as ideias)
+- Eu e vc nao precisarmos entrar em todas as cerimonias e darmos missão para os times
+
+# SEBA
 - O lado técnico dos TPMs precisa continuar
   
 
