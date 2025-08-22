@@ -14,6 +14,7 @@
 - MCP
 - Recursos vs Demandas
 - Feature Manager
+- Google Cards e Pix
 - Bruno e Fabio
 
 ## ANDERSON
