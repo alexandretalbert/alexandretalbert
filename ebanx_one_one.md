@@ -39,6 +39,7 @@
 - Precious promoção
 - Global para Edu
 - Preocupação com o "técnico"que vinha evoluindo
+- cartas
 
 #MILO
 - Achei que estamos achando um modelo
