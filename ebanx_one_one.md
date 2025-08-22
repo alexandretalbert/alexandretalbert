@@ -11,6 +11,10 @@
 ## GUSTAVO
 
 ## KEVIN  
+- MCP
+- Recursos vs Demandas
+- Feature Manager
+- Bruno e Fabio
 
 ## ANDERSON
 
