@@ -6,6 +6,7 @@
 - Precious e Seba comunicados
 - MCP
 - Capitec vs Shein
+- Africa, MENA and Asia roadmaps
   
 ## GUSTAVO
 
