@@ -2,7 +2,7 @@
 # 1:1
 
 ## ROSSETTO
-- Stripe 
+- Stripe  stress test
 - Precious e Seba comunicados
 - MCP
 - Capitec vs Shein
