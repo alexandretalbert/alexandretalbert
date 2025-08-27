@@ -2,9 +2,9 @@
 # 1:1
 
 ## ROSSETTO
-- Stripe  stress test
 - Precious e Seba comunicados
 - Sayuri
+- Stripe  stress tests
 - Capitec vs Shein
 - Africa, MENA and Asia roadmaps
 - MCP
