@@ -7,6 +7,7 @@
 - MCP
 - Capitec vs Shein
 - Africa, MENA and Asia roadmaps
+- Report presencial SP
   
 ## GUSTAVO
 
