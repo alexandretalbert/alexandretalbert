@@ -4,9 +4,11 @@
 ## ROSSETTO
 - Stripe  stress test
 - Precious e Seba comunicados
-- MCP
+- Sayuri
 - Capitec vs Shein
 - Africa, MENA and Asia roadmaps
+- MCP
+- Feature Manager
 - Report presencial SP
   
 ## GUSTAVO
@@ -23,9 +25,8 @@
 ## MARLON
 
 ## GEICY  
-- Gustavo e Gabs
-- Estrutura Global Integrations
-- Vaga
+- Merge Miros
+- Dones aqté aqui
 
 ## FELPS
 - Dashboard para Capitec ?
